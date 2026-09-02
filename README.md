@@ -16,7 +16,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
 
-Checkout lea 1
+Checkout les 1
 
 Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
 
