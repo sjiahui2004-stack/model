@@ -38,6 +38,10 @@ Interactie: MMD, microinteracties en forms
 
 HTML & CSS Basics 
 
+### vrijdag 4 sept deepdives
+
+
+
 ### maandag 7 september artikels 
 
 gelezen: The Garden and the Stream: A Technopastoral
@@ -46,7 +50,5 @@ gelezen: The Garden and the Stream: A Technopastoral
 - Een machine genaamd memex die je als tool kan gebruiken. De tool helpt je met nadenken (annoteren, veranderen, links toevoegen en samenvatten)
 - De schrijver wilt graag de lezers overtuigen. 
 
-
-andere artikelen: 
 
 
