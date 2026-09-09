@@ -78,6 +78,13 @@ Een website is webby door  een goeie toegankelijkheid, contrast, hyarchie en moo
 Ik wil mijn Digital Garden laten gaan over ………………………………….
 en wil dat laten zien door …………………………….. aan content te tonen.
 Ik begin met een stukje eigen content over …………………….… . ​
-Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door ….....................​
+Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door ….....................
+
+
+Check out: 
+
+Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
+
+Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.  ​
 
 
