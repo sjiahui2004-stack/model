@@ -48,7 +48,36 @@ gelezen: The Garden and the Stream: A Technopastoral
 
 - The garden and the stream
 - Een machine genaamd memex die je als tool kan gebruiken. De tool helpt je met nadenken (annoteren, veranderen, links toevoegen en samenvatten)
-- De schrijver wilt graag de lezers overtuigen. 
+- De schrijver wilt graag de lezers overtuigen.
 
+1. Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
+
+
+
+2. Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
+
+Een website is webby door  een goeie toegankelijkheid, contrast, hyarchie en mooi geheel. 
+
+
+3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
+
+
+### woensdag 9 sept 
+
+- Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? ​
+
+- Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?​
+
+- Heeft 'de ander' een aanvulling op je onderwerp?​
+
+- Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)​
+
+- Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.
+
+
+Ik wil mijn Digital Garden laten gaan over ………………………………….
+en wil dat laten zien door …………………………….. aan content te tonen.
+Ik begin met een stukje eigen content over …………………….… . ​
+Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door ….....................​
 
 
