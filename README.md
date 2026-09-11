@@ -2,6 +2,8 @@
 
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
+DIT IS EEN TEST < VERWIJDER DIT!! >
+
 ## Learning Log
 
 ### [...]
@@ -28,7 +30,7 @@ Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw p
 
 Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden. 3. door de code te veranderen? hoe het gepubliceert moet worden is mij nog niet gelukt.
 
-### woensdag 2 sept deepdives 
+### woensdag 2 sept deepdives
 
 Interactie: MMD, microinteracties en forms
 
@@ -36,13 +38,11 @@ Interactie: MMD, microinteracties en forms
 
 <img width="446" height="311" alt="Scherm­afbeelding 2026-09-02 om 12 36 24" src="https://github.com/user-attachments/assets/5f032295-5354-45e1-9698-25e9473d6e28" />
 
-HTML & CSS Basics 
+HTML & CSS Basics
 
 ### vrijdag 4 sept deepdives
 
-
-
-### maandag 7 september artikels 
+### maandag 7 september artikels
 
 gelezen: The Garden and the Stream: A Technopastoral
 
@@ -52,17 +52,13 @@ gelezen: The Garden and the Stream: A Technopastoral
 
 1. Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
 
-
-
 2. Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
 
-Een website is webby door  een goeie toegankelijkheid, contrast, hyarchie en mooi geheel. 
-
+Een website is webby door een goeie toegankelijkheid, contrast, hyarchie en mooi geheel.
 
 3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
 
-
-### woensdag 9 sept 
+### woensdag 9 sept
 
 - Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? ​
 
@@ -74,17 +70,13 @@ Een website is webby door  een goeie toegankelijkheid, contrast, hyarchie en moo
 
 - Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.
 
-
 Ik wil mijn Digital Garden laten gaan over ………………………………….
 en wil dat laten zien door …………………………….. aan content te tonen.
 Ik begin met een stukje eigen content over …………………….… . ​
 Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door ….....................
 
-
-Check out: 
+Check out:
 
 Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
 
-Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.  ​
-
-
+Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken. ​
