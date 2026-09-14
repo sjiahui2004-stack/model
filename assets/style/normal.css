@@ -7,14 +7,15 @@
 }
 
 body {
-  font-family: monospace;
-  background-color: rgb(90, 154, 218);
-  color: CanvasText;
+  font-family: monospace, tahoma, sans-serif;
+  background-color: rgb(145, 200, 255);
+  color: rgb(11, 3, 49);
   color-scheme: light dark;
+  margin: 3em 6em;
 }
 
 h1 {
   font-family: "impacted", tahoma, sans-serif;
-  font-size: 6em;
-  color: rgb(12, 43, 74);
+  font-size: 7em;
+  color: rgb(11, 3, 49);
 }
