@@ -74,8 +74,10 @@ Tijdens deze deepdive heb ik geleerd hoe je fonts kan toeveogen met "font family
 
 Daarna hadden we wat oefeningen hoe je effecten aan de opmaak van je font kunt toevoegen.
 
-<img><img width="297" height="172" alt="Scherm­afbeelding 2026-09-04 om 11 54 21" src="https://github.com/user-attachments/assets/03bc738c-83fb-4267-ad58-262eefb2904a" />
- </img>
+<img><img width="467" height="335" alt="Scherm­afbeelding 2026-09-15 om 17 36 46" src="https://github.com/user-attachments/assets/df4ec475-f0e4-488c-882d-a2c6eb490309" />
+<img width="508" height="368" alt="Scherm­afbeelding 2026-09-15 om 17 36 37" src="https://github.com/user-attachments/assets/63cc288d-1f84-4c64-9c2c-bf9a1e161429" />
+</img>
+
 <br>
 
 ### maandag 7 september artikels
