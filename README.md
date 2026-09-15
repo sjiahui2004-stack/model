@@ -85,49 +85,62 @@ Deze artikel gelezen: The Garden and the Stream: A Technopastoral
 - De schrijver wilt graag de lezers overtuigen.
 
 1. Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
+   Een digital garden is meer persoonlijker en vrijer dan een reguliere website. Een Dg groeit in de loop van de jaren en een web blijft vaak met vaste info.
 
 2. Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
 
 Een website is webby door een goeie toegankelijkheid, contrast, hyarchie en mooi geheel.
 
-3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
+3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
+   Ik denk iets met concerten, reizen, films, series en boeken? Fictieve verhalen?
+   Kleur?
+
+Deepdive: Light & dark themed
+
+Wat heb ik geleerd?
 
 ### woensdag 9 sept
 
-- Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? ​
+- Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content?
+
+Ik heb 3 onderwerpen waar ik het over wil doen: Concerten, Fictie en Travel. Ik twijfel of ik ze moet combineren of juist moet focussen op 1? En ik wil het niet te persoonlijk maken? Of juist wel? ben nog een beetje zoekend naar wat ik wil maar het gaat wel een riching op.
 
 - Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?​
 
 - Heeft 'de ander' een aanvulling op je onderwerp?​
+  Nee niet gevraagd.
 
 - Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)​
+  vrolijk, inspirerend, blij, enthousiast, avontuurlijk.
 
 - Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.
+  Donkere kleuren met een pop of color. Mag wel een beetje uitsprekend zijn. Het moet een enthousiaste uitstraling hebben.
 
-Ik wil mijn Digital Garden laten gaan over ………………………………….
-en wil dat laten zien door …………………………….. aan content te tonen.
-Ik begin met een stukje eigen content over …………………….… . ​
-Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door ….....................
+Ik wil mijn Digital Garden laten gaan over concerten…….
+en wil dat laten zien door …foto's, video's en tekst. aan content te tonen.
+Ik begin met een stukje eigen content over Mijn favorieten artiesten. ​
+Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door mijn content toe te voegen en meenemen in mijn belevenis.
 
-Check out:
+Deepdive: mooie kleuren, gradients en patronen
 
-Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
-
-Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen
-onderzoeken. ​
+Wat heb ik geleerd?
 
 ### vrijdag 11 september
 
-Deepdive:
+Deepdive: Grid 101, media quiries
 
 Wat heb ik geleerd?
 
 ### maandag 14 september
+
+Bi weekly geek 1:
 
 Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
 
 Vertel welke volgende stap je neemt om je website responsive te maken.
 
 Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+
+Deepdive: responsive grid + grid areas
 
 ### woensdag 16 september
