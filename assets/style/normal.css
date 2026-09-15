@@ -16,9 +16,15 @@ body {
 
 h1 {
   font-family: "impacted", tahoma, sans-serif;
-  font-size: 4em;
+  font-size: 5em;
   color: rgb(11, 3, 49);
   text-shadow: 0.03em 0.04em white;
+}
+
+h2 {
+  font-family: monospace;
+  font-size: 2em;
+  color: rgb(11, 3, 49);
 }
 
 ul {
