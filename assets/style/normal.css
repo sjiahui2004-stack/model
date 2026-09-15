@@ -16,9 +16,9 @@ body {
 
 h1 {
   font-family: "impacted", tahoma, sans-serif;
-  font-size: 7em;
+  font-size: 4em;
   color: rgb(11, 3, 49);
-  text-shadow: white;
+  text-shadow: 0.03em 0.04em white;
 }
 
 ul {
