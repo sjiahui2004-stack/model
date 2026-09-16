@@ -1,4 +1,20 @@
-/* HIER KOMT JOUW CSS */
+html {
+  color-scheme: light dark;
+  --background-color: rgb(145, 200, 255);
+  --text-color: rgb(11, 3, 49);
+  --li-background-color: #5884eb;
+  --text-shadow: rgb(255, 255, 255);
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    --background-color: rgb(11, 3, 49);
+    --text-color: rgb(145, 200, 255);
+    --li-background-color: #b6d1ea;
+    --text-shadow: rgb(28, 58, 170);
+  }
+}
+
 @font-face {
   font-family: "impacted";
   src: url(../type/IMPACTED.ttf);
@@ -8,24 +24,23 @@
 
 body {
   font-family: monospace, tahoma, sans-serif;
-  background-color: rgb(145, 200, 255);
-  color: rgb(11, 3, 49);
-  color-scheme: light dark;
+  background-color: var(--background-color);
+  color: var(--text-color);
   margin: 3em;
 }
 
 h1 {
   font-family: "impacted", tahoma, sans-serif;
   font-size: 5em;
-  color: rgb(11, 3, 49);
-  text-shadow: 0.04em 0.04em white;
+  color: var(--text-color);
+  text-shadow: 0.04em 0.04em var(--text-shadow);
 }
 
 h2 {
   font-family: monospace;
   font-size: 2em;
-  color: rgb(11, 3, 49);
-  text-shadow: 0.03em 0.04em white;
+  color: var(--text-color);
+  text-shadow: 0.03em 0.04em var(--text-shadow);
 }
 
 ul {
@@ -40,8 +55,8 @@ ul {
 
 li {
   padding: 2em;
-  background: #b6d1ea;
-  border-radius: 5em 5em;
+  background: var(--li-background-color);
+  clip-path: circle(40%);
 }
 
 li:nth-of-type(1) {
