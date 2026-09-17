@@ -221,3 +221,11 @@ Deepdive: responsive grid + grid areas
 Wat heb ik geleerd?
 
 ### woensdag 16 september
+
+bron circle clippath:
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/clip-path
+
+bron tekst in midden circle:
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/place-items

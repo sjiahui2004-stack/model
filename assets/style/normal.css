@@ -41,6 +41,7 @@ h2 {
   font-size: 2em;
   color: var(--text-color);
   text-shadow: 0.03em 0.04em var(--text-shadow);
+  margin: 1em;
 }
 
 ul {
@@ -55,12 +56,10 @@ ul {
 
 li {
   width: 6em;
-  aspect-ratio: 1;
-
+  height: 6em;
   padding: 0;
   background: var(--li-background-color);
   clip-path: circle(50%);
-
   display: grid;
   place-items: center;
   text-align: center;
@@ -88,4 +87,15 @@ li:nth-of-type(4) {
   grid-column-start: 3;
   grid-column-end: 4;
   grid-row: 4;
+}
+
+p {
+  margin: 2em;
+}
+
+img {
+  width: 7em;
+  height: 7em;
+  clip-path: circle(50%);
+  margin: 2em;
 }
