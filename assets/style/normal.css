@@ -54,9 +54,16 @@ ul {
 }
 
 li {
-  padding: 2em;
+  width: 6em;
+  aspect-ratio: 1;
+
+  padding: 0;
   background: var(--li-background-color);
-  clip-path: circle(40%);
+  clip-path: circle(50%);
+
+  display: grid;
+  place-items: center;
+  text-align: center;
 }
 
 li:nth-of-type(1) {

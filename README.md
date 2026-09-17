@@ -99,6 +99,25 @@ Deepdive: Light & dark themed
 
 Wat heb ik geleerd?
 
+Met onderstaande codes heb ik geleerd hoe ik themas aan mijn code kan voegen.
+
+html {
+color-scheme: light dark;
+--background-color: rgb(145, 200, 255);
+--text-color: rgb(11, 3, 49);
+--li-background-color: #5884eb;
+--text-shadow: rgb(255, 255, 255);
+}
+
+@media (prefers-color-scheme: dark) {
+html {
+--background-color: rgb(11, 3, 49);
+--text-color: rgb(145, 200, 255);
+--li-background-color: #b6d1ea;
+--text-shadow: rgb(28, 58, 170);
+}
+}
+
 ### woensdag 9 sept
 
 - Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content?
@@ -125,22 +144,80 @@ Deepdive: mooie kleuren, gradients en patronen
 
 Wat heb ik geleerd?
 
+Je kan ook HEX gebruiken voor je kleurencode mar ik vind RGB fijner omdat ik dat meestal gebruik. Ook heb ik geleerd dat er verschillende gardients zijn die ik kan gebruiken:
+
+linear-gradient()
+repeating-linear-gradient()
+radial-gradient()
+repeating-radial-gradient()
+conic-gradient()
+repeating-conic-gradient()
+
+Kan ook meerdere kleuren gebruiken in gradient door:
+
+background: linear-gradient(red, pink, purple, blue)
+
 ### vrijdag 11 september
 
 Deepdive: Grid 101, media quiries
 
 Wat heb ik geleerd?
 
+Grid bestaat uit columns (horizontale) en rows (verticale). Gap zit tussenin de columns en row.
+
+Met: li:nth-of-type(1) {
+grid-column-start:1;
+grid-column-end:4;
+}
+
+Kan ik bepalen waar de grid komt.
+
+Grid in een grid:
+
+li:nth-of-type(1) {
+grid-column-start:1;
+grid-column-end:4;
+
+    display:grid;
+    grid-template-columns:8em 1fr;
+    grid-template-rows:1fr 1fr;
+    column-gap:1em;
+
+}
+
+li:nth-of-type(1) img {
+grid-row-start:1;
+grid-row-end:3;
+grid-column-start:1;
+}
+
+li:nth-of-type(1) h2 {
+align-self:end;
+}
+
+Met media quiries kan ik aanpassingen maken op verschillende grote schermen.
+
+code: @media (width>..)
+grid-template-columns:
+
 ### maandag 14 september
 
-Bi weekly geek 1:
+Bi weekly geek 1
 
 Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
 
+Ik denk als onderdelen onduidelijk zijn en rommelig worden. Je kan dat fixen door een duidelijke hierachie en genoeg witruimte te gebruiken.
+
 Vertel welke volgende stap je neemt om je website responsive te maken.
+
+Op een groot scherm alles meer verspreid laten zien in plaats van onder elkaar. En de bollen laten bewegen.
 
 Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
 
+Ik heb met font family een font toegevoegd, grids gemaakt zodat ik dingen op verschillende plekken kan zetten en op verschillende hoogtes. Met dark/light media heb ik een dark en light mode gemaakt en via een website heb ik een clip path toegevoegd om een ronde vorm te krijgen.
+
 Deepdive: responsive grid + grid areas
+
+Wat heb ik geleerd?
 
 ### woensdag 16 september
