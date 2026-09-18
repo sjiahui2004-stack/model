@@ -247,3 +247,21 @@ Aan het begin, met de code die ik vorig jaar heb geleerd en nog niet goed begree
 Mijn website moet denk ik uiteindelijk, aan alle webby punten voldoen. Die heb ik nu nog niet. Ik heb de codes die ik echt begrijp van de deepdives meegenomen in mijn digital garden.
 
 Verbeelden en conceptualiseren
+
+Tijdens mijn stijl/abstracte onderzoek kreeg ik pas echt een idee hoe mijn garden kwa vormgeving kan worden. Ik had meteen het idee dat dingen moeten "zweven' en niet netjes naast elkaar moeten staan.
+
+Omdat het mijn garden is, wilde ik mijn lievelingskleur blauw gebruiken als theme. Tijdens de light/dark mode deepdive kreeg ik het idee om de light mode als overdag te maken en dark als avond lucht.
+
+Prototypen en uitwerken
+
+Ik heb eerst een hele simpele HTML gemaakt met de template die er al stond. Tijdens elke deepdive had ik wel iets waarvan ik dacht: dit wil ik gebruiken, dus heb ik die codes meteen opgeslagen.
+
+Ik had een idee om bollen als figuur in mijn garden te gebruiken, maar in de deepdives kwam niet voor hoe ik dat moest doen. Daarom heb ik op internet wat dingen opgezocht. Zo kwam ik op clip-path: circle() en place-items.
+
+Ik snap bijvoorbeeld hoe je grids maakt, maar het is niet zo dat ik alles uit die deepdive kan en begrijp. Die dingen heb ik dan ook niet gebruikt, omdat ik wel wil dat ik mijn eigen garden begrijp.
+
+Evaluren
+
+Ik vind dat het tot nu toe wel goed gaat. Wel ga ik echt proberen om deze learning log bij te houden en niet alles achteraf te doen.
+
+Ik ga verder brainstormen over hoe ik mijn garden leuker kan maken voor een groot scherm.
