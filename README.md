@@ -161,8 +161,6 @@ background: linear-gradient(red, pink, purple, blue)
 
 <img width="1024" height="650" alt="Scherm­afbeelding 2026-09-18 om 12 12 00" src="https://github.com/user-attachments/assets/2ee60e38-addd-480a-8ba9-b1050f7f912d" />
 <img width="1078" height="653" alt="Scherm­afbeelding 2026-09-18 om 12 11 52" src="https://github.com/user-attachments/assets/0e4818ec-9a91-418f-8a99-35b9bbc3a0e0" />
-
-
 ### vrijdag 11 september
 
 Deepdive: Grid 101, media quiries
@@ -247,6 +245,3 @@ Orienteren & begrijpen
 Aan het begin, met de code die ik vorig jaar heb geleerd en nog niet goed begreep, snapte ik code echt niet en vond ik het niet leuk. De afgelopen weken hebben we veel duidelijker les gehad in wat code allemaal kan en de codes in deepdive onthoud ik beter door de oefeningen en de stappen die erin staan. Nu, vind ik code wel leuker. Ik merk dat het eigenlijk gewoon lukt en ik begrijp codes (niet alle) ook.
 
 Mijn website moet denk ik uiteindelijk, aan alle webby punten voldoen. Die heb ik nu nog niet. Ik heb de codes die ik echt begrijp van de deepdives meegenomen in mijn digital garden.
-
-Verbeelde
-
