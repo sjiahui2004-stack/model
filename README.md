@@ -157,6 +157,12 @@ Kan ook meerdere kleuren gebruiken in gradient door:
 
 background: linear-gradient(red, pink, purple, blue)
 
+<img width="1031" height="653" alt="Scherm­afbeelding 2026-09-18 om 12 11 45" src="https://github.com/user-attachments/assets/47e1740b-4111-4917-b979-1ec949003178" />
+
+<img width="1024" height="650" alt="Scherm­afbeelding 2026-09-18 om 12 12 00" src="https://github.com/user-attachments/assets/2ee60e38-addd-480a-8ba9-b1050f7f912d" />
+<img width="1078" height="653" alt="Scherm­afbeelding 2026-09-18 om 12 11 52" src="https://github.com/user-attachments/assets/0e4818ec-9a91-418f-8a99-35b9bbc3a0e0" />
+
+
 ### vrijdag 11 september
 
 Deepdive: Grid 101, media quiries
@@ -229,3 +235,6 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/clip-path
 bron tekst in midden circle:
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/place-items
+
+<img width="798" height="528" alt="Scherm­afbeelding 2026-09-18 om 12 12 22" src="https://github.com/user-attachments/assets/5e4a783e-3909-43a6-bd6c-1cce8e362e40" />
+
