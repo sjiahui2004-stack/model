@@ -245,3 +245,5 @@ Orienteren & begrijpen
 Aan het begin, met de code die ik vorig jaar heb geleerd en nog niet goed begreep, snapte ik code echt niet en vond ik het niet leuk. De afgelopen weken hebben we veel duidelijker les gehad in wat code allemaal kan en de codes in deepdive onthoud ik beter door de oefeningen en de stappen die erin staan. Nu, vind ik code wel leuker. Ik merk dat het eigenlijk gewoon lukt en ik begrijp codes (niet alle) ook.
 
 Mijn website moet denk ik uiteindelijk, aan alle webby punten voldoen. Die heb ik nu nog niet. Ik heb de codes die ik echt begrijp van de deepdives meegenomen in mijn digital garden.
+
+Verbeelden en conceptualiseren
