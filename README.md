@@ -276,4 +276,12 @@ Check out:
 
 - Wat zijn HTML landmark role elements?
 
+Head, body, main en footer. Deze worden gebruikt voor de structuur in je pagina.
+
 - Wat zijn heading elementen en hoe horen deze 'genest' te worden?
+
+H1 tot en met H6 en je gebruikt ze van meest belangrijke naar minst belangrijke heading.
+
+- Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
+
+Ik klik meestal meteen op akkoord omdat ik gewoon de site wil bezoeken. Nu ga ik misschien beter opletten wat ze met mijn informatie doen, want dat voelt wel ietsjes prettiger.
