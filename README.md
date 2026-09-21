@@ -265,3 +265,16 @@ Evaluren
 Ik vind dat het tot nu toe wel goed gaat. Wel ga ik echt proberen om deze learning log bij te houden en niet alles achteraf te doen.
 
 Ik ga verder brainstormen over hoe ik mijn garden leuker kan maken voor een groot scherm.
+
+### maandag 21 september
+
+Start sprint
+
+<img width="769" height="555" alt="welingelichte cookie concent? opdracht +Lynn" src="https://github.com/user-attachments/assets/ca9e9988-73b7-4f84-aef9-5e827d311afa" />
+
+Check out: 
+
+- Wat zijn HTML landmark role elements?
+
+
+- Wat zijn heading elementen en hoe horen deze 'genest' te worden?
