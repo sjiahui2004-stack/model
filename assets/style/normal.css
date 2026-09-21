@@ -54,6 +54,15 @@ ul {
   gap: 3em;
 }
 
+a:hover {
+  color: rgb(255, 242, 0);
+}
+
+a:focus {
+  color: rgb(255, 242, 0);
+  outline: 0.2em dashed rgb(255, 242, 0);
+}
+
 li {
   width: 6em;
   height: 6em;
@@ -100,4 +109,4 @@ img {
   margin: 2em;
 }
 
-/* bron toevoegen en hier annoteren met commans sles */
+/* bron toevoegen en hier annoteren met commans sles/ verander// */
