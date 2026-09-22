@@ -266,6 +266,8 @@ Ik vind dat het tot nu toe wel goed gaat. Wel ga ik echt proberen om deze learni
 
 Ik ga verder brainstormen over hoe ik mijn garden leuker kan maken voor een groot scherm.
 
+Retrospect oefeningen en tekening:
+
 ### maandag 21 september
 
 Start sprint
