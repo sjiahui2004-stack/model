@@ -16,7 +16,7 @@ html {
   html {
     --background-color: rgb(11, 3, 49);
     --text-color: rgb(145, 200, 255);
-    --li-border-color: #b6d1ea;
+    --li-border-color: rgb(182, 209, 234);
     --text-shadow: rgb(28, 58, 170);
   }
 }
@@ -41,7 +41,7 @@ h1 {
   color: var(--text-color);
   text-shadow: 0.04em 0.04em var(--text-shadow);
   margin: var(--whitespace-m);
-  margin-bottom: 1.5em;
+  margin-bottom: 1em;
 }
 
 /* bron font:  https://www.dafont.com/impacted-hr.font?back=theme  */
@@ -56,7 +56,7 @@ h2 {
 
 ul {
   margin: var(--whitespace-m);
-  margin-bottom: 8em;
+  margin-bottom: 17em;
   padding: 0;
   list-style-type: "";
   display: grid;
@@ -78,6 +78,7 @@ li {
   width: 8em;
   height: 8em;
   padding: 0;
+  text-align: right;
 }
 
 li img {
@@ -98,6 +99,10 @@ foto+niet+misvormen+code+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAd
 IBCDYwMzhqMGo0qAIAsAIB&sourceid=chrome&source=chrome.ob&ie=UTF-8
 
 Google gemini^ */
+
+li a:hover img {
+  border-color: rgb(255, 242, 0);
+}
 
 li:nth-of-type(1) {
   grid-column-start: 2;
