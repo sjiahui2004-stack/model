@@ -2,7 +2,7 @@ html {
   color-scheme: light dark;
   --background-color: rgb(145, 200, 255);
   --text-color: rgb(11, 3, 49);
-  --li-background-color: #5884eb;
+  --li-border-color: #5884eb;
   --text-shadow: rgb(255, 255, 255);
 
   --whitespace-s: 1rem;
@@ -16,7 +16,7 @@ html {
   html {
     --background-color: rgb(11, 3, 49);
     --text-color: rgb(145, 200, 255);
-    --li-background-color: #b6d1ea;
+    --li-border-color: #b6d1ea;
     --text-shadow: rgb(28, 58, 170);
   }
 }
@@ -32,14 +32,16 @@ body {
   font-family: monospace, tahoma, sans-serif;
   background-color: var(--background-color);
   color: var(--text-color);
-  margin: 3em;
+  margin: var(--whitespace-l);
 }
 
 h1 {
   font-family: "impacted", tahoma, sans-serif;
-  font-size: 5em;
+  font-size: 6em;
   color: var(--text-color);
   text-shadow: 0.04em 0.04em var(--text-shadow);
+  margin: var(--whitespace-m);
+  margin-bottom: 1.5em;
 }
 
 /* bron font:  https://www.dafont.com/impacted-hr.font?back=theme  */
@@ -53,12 +55,13 @@ h2 {
 }
 
 ul {
-  margin: 0;
+  margin: var(--whitespace-m);
+  margin-bottom: 8em;
   padding: 0;
   list-style-type: "";
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-row: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-row: 1fr 1fr 1fr 1fr 1fr 1fr;
   gap: 3em;
 }
 
@@ -72,22 +75,29 @@ a:focus {
 }
 
 li {
-  width: 6em;
-  height: 6em;
+  width: 8em;
+  height: 8em;
   padding: 0;
-  background: var(--li-background-color);
+}
+
+li img {
+  width: 8em;
+  height: 8em;
+  object-fit: cover;
   clip-path: circle(50%);
-  display: grid;
-  place-items: center;
-  text-align: center;
+
+  border-radius: 50%;
+  border: 0.2em solid var(--li-border-color);
 }
 /* - bron circle clippath:
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/clip-path
 
-- bron tekst in midden circle:
+- bron object fit: https://www.google.com/search?q=foto+niet+misvormen+code&oq=
+foto+niet+misvormen+code+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAd
+IBCDYwMzhqMGo0qAIAsAIB&sourceid=chrome&source=chrome.ob&ie=UTF-8
 
-https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/place-items */
+Google gemini^ */
 
 li:nth-of-type(1) {
   grid-column-start: 2;
@@ -96,25 +106,49 @@ li:nth-of-type(1) {
 }
 
 li:nth-of-type(2) {
-  grid-column-start: 3;
-  grid-column-end: 4;
-  grid-row: 2;
+  grid-column-start: 4;
+  grid-column-end: 5;
+  grid-row: 1;
 }
 
 li:nth-of-type(3) {
-  grid-column-start: 2;
-  grid-column-end: 3;
-  grid-row: 3;
+  grid-column-start: 7;
+  grid-column-end: 8;
+  grid-row: 1;
 }
 
 li:nth-of-type(4) {
   grid-column-start: 3;
   grid-column-end: 4;
-  grid-row: 4;
+  grid-row: 3;
+}
+
+li:nth-of-type(5) {
+  grid-column-start: 6;
+  grid-column-end: 7;
+  grid-row: 3;
+}
+
+li:nth-of-type(6) {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row: 5;
+}
+
+li:nth-of-type(7) {
+  grid-column-start: 4;
+  grid-column-end: 5;
+  grid-row: 5;
+}
+
+li:nth-of-type(8) {
+  grid-column-start: 7;
+  grid-column-end: 8;
+  grid-row: 5;
 }
 
 p {
-  margin: var(--whitespace-l);
+  margin: var(--whitespace-m);
 }
 
 img {
