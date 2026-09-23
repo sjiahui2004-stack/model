@@ -37,7 +37,7 @@ body {
 
 h1 {
   font-family: "impacted", tahoma, sans-serif;
-  font-size: 6em;
+  font-size: 8em;
   color: var(--text-color);
   text-shadow: 0.04em 0.04em var(--text-shadow);
   margin: var(--whitespace-m);
