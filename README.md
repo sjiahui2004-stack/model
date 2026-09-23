@@ -287,3 +287,13 @@ H1 tot en met H6 en je gebruikt ze van meest belangrijke naar minst belangrijke 
 - Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
 
 Ik klik meestal meteen op akkoord omdat ik gewoon de site wil bezoeken. Nu ga ik misschien beter opletten wat ze met mijn informatie doen, want dat voelt wel ietsjes prettiger.
+
+### woensdag 23 september
+
+Check out:
+
+- Wat is een wireflow en wat heb je er aan?
+
+- Wat zijn dark UX patterns? Geef drie voorbeelden...
+
+- Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?

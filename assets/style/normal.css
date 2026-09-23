@@ -156,11 +156,22 @@ p {
   margin: var(--whitespace-m);
 }
 
-img {
-  width: 7em;
-  height: 7em;
+img,
+svg {
+  width: 10em;
+  height: 10em;
   clip-path: circle(50%);
-  margin: 2em;
+  margin: var(--whitespace-m);
+  object-fit: cover;
+}
+
+video {
+  width: 10em;
+  height: 10em;
+  object-fit: cover;
+  clip-path: circle(50%);
+  margin: var(--whitespace-m);
+  transform: rotate(90deg);
 }
 
 footer {
