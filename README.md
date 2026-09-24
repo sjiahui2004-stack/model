@@ -268,6 +268,20 @@ Ik ga verder brainstormen over hoe ik mijn garden leuker kan maken voor een groo
 
 Retrospect oefeningen en tekening:
 
+<img width="743" height="460" alt="Scherm­afbeelding 2026-09-24 om 15 45 42" src="https://github.com/user-attachments/assets/293b2eeb-977f-4a0c-9975-c5d017ce362c" />
+<img width="663" height="481" alt="Scherm­afbeelding 2026-09-24 om 15 45 54" src="https://github.com/user-attachments/assets/0a4fb088-e3e3-4a55-945d-66a2fb7d7e5a" />
+<img width="605" height="433" alt="Scherm­afbeelding 2026-09-24 om 15 45 48" src="https://github.com/user-attachments/assets/dddeef3f-8a88-45be-90bc-03d048f68535" />
+
+
+<img width="586" height="471" alt="Scherm­afbeelding 2026-09-24 om 15 45 10" src="https://github.com/user-attachments/assets/f71d8cc9-5631-41fc-a121-10651beb952e" />
+
+<img width="446" height="498" alt="Scherm­afbeelding 2026-09-24 om 15 45 20" src="https://github.com/user-attachments/assets/9e12a6b5-70e2-4550-b849-54a7e6a39a1d" />
+<img width="345" height="417" alt="Scherm­afbeelding 2026-09-24 om 15 45 14" src="https://github.com/user-attachments/assets/6417e7c9-3eb8-4379-8d25-ded1917787ac" />
+
+<img width="376" height="604" alt="Scherm­afbeelding 2026-09-24 om 15 45 33" src="https://github.com/user-attachments/assets/9be5522f-9dfe-45cc-919f-fb84294cc278" />
+<img width="415" height="737" alt="Scherm­afbeelding 2026-09-24 om 15 45 28" src="https://github.com/user-attachments/assets/5d5b6dad-323a-4f95-a227-9ca56f0cc643" />
+
+
 ### maandag 21 september
 
 Start sprint
@@ -290,12 +304,29 @@ Ik klik meestal meteen op akkoord omdat ik gewoon de site wil bezoeken. Nu ga ik
 
 ### woensdag 23 september
 
+<img width="726" height="512" alt="Scherm­afbeelding 2026-09-24 om 15 44 41" src="https://github.com/user-attachments/assets/e8f40c3b-95bc-4c66-abf7-b47a010a4a7a" />
+
+
 Check out:
 
 - Wat is een wireflow en wat heb je er aan?
 
+Zijn schetsen van schermen waarin je ziet hoe ze met elkaar verbonden zijn en hoe je van het ene scherm naar het andere gaat.
+
 - Wat zijn dark UX patterns? Geef drie voorbeelden...
+
+Visual interference: door iets bijvoorbeeld opvallender te maken met kleur, zodat het aantrekkelijker is om daarop te klikken.
+
+Obstruction: veel bedrijven maken het bijvoorbeeld moeilijker als je iets wilt annuleren, retourneren of opzeggen.
+
+Preselection: de site heeft al een selectie gemaakt, vaak voor iets waarmee ze willen dat je akkoord gaat. Zo gaan mensen er sneller mee akkoord.
 
 - Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
 
-<img src="readme img/10 consent soorten.png" alt="10 afbeeldingen consent">
+De gebruiker moet zich niet verplicht voelen om 'hiermee' akkoord te gaan.
+
+<img width="1920" height="1080" alt="10 consent soorten" src="https://github.com/user-attachments/assets/f5897f04-e66f-498c-a333-9e83d4599107" />
+
+Ik ga denk ik een pop-up maken en als je die wegklikt, blijft er een cookie in beeld voor als je nog iets wilt wijzigen of terug wilt lezen.
+
+Deepdive: 
