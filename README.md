@@ -302,7 +302,31 @@ Ik klik meestal meteen op akkoord omdat ik gewoon de site wil bezoeken. Nu ga ik
 
 Deep dive: S2 - Buttons, states en selectors
 
-Wat heb ik geleerd?
+button {
+hier staat hoe de button er standaard uitziet
+}
+
+button:focus-visible {
+hiermee als de button geselecteerd wordt, bijvoorbeeld met Tab
+}
+
+button:hover {
+hiermee als de muis erop komt
+}
+
+button:active {
+hiermee als je de button indrukt
+}
+
+<!-- <details>
+    <summary>Is dit een vraag?</summary>
+    <p>Dit antwoord is pas zichtbaar zodra je op de vraag klikt.</p>
+</details> -->
+
+details { … }
+details:open { … }
+details:open summary { … }
+details:open::details-content { … }
 
 ### woensdag 23 september
 
@@ -331,6 +355,42 @@ De gebruiker moet zich niet verplicht voelen om 'hiermee' akkoord te gaan.
 Ik ga denk ik een pop-up maken en als je die wegklikt, blijft er een cookie in beeld voor als je nog iets wilt wijzigen of terug wilt lezen.
 
 Deepdive:S2 - Buttons + Dialogs
+
+Wat heb ik geleerd?
+
+javascipt en css koppelen in html:
+
+<!-- <head>
+  ...
+  <link href="style.css" rel="stylesheet">
+  <script defer src="script.js"></script>
+</head> -->
+
+<!-- html: <button onclick="zetAan()">Aan</button> -->
+<!-- java: function zetAan() {
+  document.body.classList.add("aan");
+  classList.add("aan")     // toevoegen
+classList.remove("aan")  // verwijderen
+classList.toggle("aan")  // toevoegen/verwijderen
+} -->
+
+css:
+body {
+/_ normale styling _/
+}
+
+body.aan {
+/_ styling als class "aan" is toegevoegd _/
+}
+
+ <!-- diaglog pop up: <!-- <button>Open dialog</button>
+
+<dialog>
+  <form>
+    <p>De info</p>
+    <button>Sluit dialog</button>
+  </form>
+</dialog> --> -->
 
 Cookies:
 
