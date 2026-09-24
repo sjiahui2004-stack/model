@@ -272,7 +272,6 @@ Retrospect oefeningen en tekening:
 <img width="663" height="481" alt="Scherm­afbeelding 2026-09-24 om 15 45 54" src="https://github.com/user-attachments/assets/0a4fb088-e3e3-4a55-945d-66a2fb7d7e5a" />
 <img width="605" height="433" alt="Scherm­afbeelding 2026-09-24 om 15 45 48" src="https://github.com/user-attachments/assets/dddeef3f-8a88-45be-90bc-03d048f68535" />
 
-
 <img width="586" height="471" alt="Scherm­afbeelding 2026-09-24 om 15 45 10" src="https://github.com/user-attachments/assets/f71d8cc9-5631-41fc-a121-10651beb952e" />
 
 <img width="446" height="498" alt="Scherm­afbeelding 2026-09-24 om 15 45 20" src="https://github.com/user-attachments/assets/9e12a6b5-70e2-4550-b849-54a7e6a39a1d" />
@@ -280,7 +279,6 @@ Retrospect oefeningen en tekening:
 
 <img width="376" height="604" alt="Scherm­afbeelding 2026-09-24 om 15 45 33" src="https://github.com/user-attachments/assets/9be5522f-9dfe-45cc-919f-fb84294cc278" />
 <img width="415" height="737" alt="Scherm­afbeelding 2026-09-24 om 15 45 28" src="https://github.com/user-attachments/assets/5d5b6dad-323a-4f95-a227-9ca56f0cc643" />
-
 
 ### maandag 21 september
 
@@ -309,7 +307,6 @@ Wat heb ik geleerd?
 ### woensdag 23 september
 
 <img width="726" height="512" alt="Scherm­afbeelding 2026-09-24 om 15 44 41" src="https://github.com/user-attachments/assets/e8f40c3b-95bc-4c66-abf7-b47a010a4a7a" />
-
 
 Check out:
 
@@ -340,5 +337,6 @@ Cookies:
 <img width="410" height="737" alt="Scherm­afbeelding 2026-09-24 om 17 27 36" src="https://github.com/user-attachments/assets/a8be0615-9367-4870-8fa8-000ebcff5377" />
 <img width="413" height="473" alt="Scherm­afbeelding 2026-09-24 om 17 27 28" src="https://github.com/user-attachments/assets/f4665bff-cdd1-4773-a694-90c3a4afdccc" />
 
-Alle knoppen dezelfde layout, zodat je niet verplicht voelt om op akkoord te klikken. 
+Alle knoppen dezelfde layout, zodat je niet verplicht voelt om op akkoord te klikken.
 
+### vrijdag 25 september
