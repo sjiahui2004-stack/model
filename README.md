@@ -297,3 +297,5 @@ Check out:
 - Wat zijn dark UX patterns? Geef drie voorbeelden...
 
 - Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
+
+<img src="readme img/10 consent soorten.png" alt="10 afbeeldingen consent">
