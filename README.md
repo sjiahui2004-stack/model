@@ -330,3 +330,11 @@ De gebruiker moet zich niet verplicht voelen om 'hiermee' akkoord te gaan.
 Ik ga denk ik een pop-up maken en als je die wegklikt, blijft er een cookie in beeld voor als je nog iets wilt wijzigen of terug wilt lezen.
 
 Deepdive: 
+
+Cookies:
+
+<img width="410" height="737" alt="Scherm­afbeelding 2026-09-24 om 17 27 36" src="https://github.com/user-attachments/assets/a8be0615-9367-4870-8fa8-000ebcff5377" />
+<img width="413" height="473" alt="Scherm­afbeelding 2026-09-24 om 17 27 28" src="https://github.com/user-attachments/assets/f4665bff-cdd1-4773-a694-90c3a4afdccc" />
+
+Alle knoppen dezelfde layout, zodat je niet verplicht voelt om op akkoord te klikken. 
+
