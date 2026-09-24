@@ -302,6 +302,10 @@ H1 tot en met H6 en je gebruikt ze van meest belangrijke naar minst belangrijke 
 
 Ik klik meestal meteen op akkoord omdat ik gewoon de site wil bezoeken. Nu ga ik misschien beter opletten wat ze met mijn informatie doen, want dat voelt wel ietsjes prettiger.
 
+Deep dive: S2 - Buttons, states en selectors
+
+Wat heb ik geleerd?
+
 ### woensdag 23 september
 
 <img width="726" height="512" alt="Scherm­afbeelding 2026-09-24 om 15 44 41" src="https://github.com/user-attachments/assets/e8f40c3b-95bc-4c66-abf7-b47a010a4a7a" />
@@ -329,7 +333,7 @@ De gebruiker moet zich niet verplicht voelen om 'hiermee' akkoord te gaan.
 
 Ik ga denk ik een pop-up maken en als je die wegklikt, blijft er een cookie in beeld voor als je nog iets wilt wijzigen of terug wilt lezen.
 
-Deepdive: 
+Deepdive:S2 - Buttons + Dialogs
 
 Cookies:
 
