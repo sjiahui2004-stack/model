@@ -399,4 +399,6 @@ Cookies:
 
 Alle knoppen dezelfde layout, zodat je niet verplicht voelt om op akkoord te klikken.
 
+bron 'autoplay, muted, loop, playsinline' : https://www.w3schools.com/HTML/html5_video.asp
+
 ### vrijdag 25 september
