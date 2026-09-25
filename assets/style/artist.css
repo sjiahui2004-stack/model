@@ -1,0 +1,55 @@
+/**********
+•⁠  ⁠MARK: Body
+**********/
+
+body {
+  font-family: monospace, tahoma, sans-serif;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  margin: var(--whitespace-l);
+}
+
+h1 {
+  font-family: "impacted", tahoma, sans-serif;
+  font-size: 8em;
+  color: var(--text-color);
+  text-shadow: 0.04em 0.04em var(--text-shadow);
+  margin: var(--whitespace-m);
+  margin-bottom: 1em;
+}
+
+/* bron font:  https://www.dafont.com/impacted-hr.font?back=theme  */
+
+h2 {
+  font-family: monospace;
+  font-size: 2em;
+  color: var(--text-color);
+  text-shadow: 0.03em 0.04em var(--text-shadow);
+  margin: var(--whitespace-m);
+}
+
+img,
+svg {
+  width: 10em;
+  height: 10em;
+  clip-path: circle(50%);
+  margin: var(--whitespace-m);
+  object-fit: cover;
+  border-radius: 50%;
+  border: 0.2em solid var(--li-border-color);
+}
+
+/* voor content op artiesten pagina^ */
+
+video {
+  width: 10em;
+  height: 10em;
+  object-fit: cover;
+  clip-path: circle(50%);
+  margin: var(--whitespace-m);
+  transform: rotate(90deg);
+  border-radius: 50%;
+  border: 0.2em solid var(--li-border-color);
+}
+
+/* voor content op artiesten pagina^ */

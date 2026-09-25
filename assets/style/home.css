@@ -1,32 +1,6 @@
-html {
-  color-scheme: light dark;
-  --background-color: rgb(145, 200, 255);
-  --text-color: rgb(11, 3, 49);
-  --li-border-color: #5884eb;
-  --text-shadow: rgb(255, 255, 255);
-
-  --whitespace-s: 1rem;
-  --whitespace-xs: calc(var(--whitespace-s) * 0.5);
-  --whitespace-m: calc(var(--whitespace-s) * 2);
-  --whitespace-l: calc(var(--whitespace-s) * 4);
-  --whitespace-xl: calc(var(--whitespace-s) * 6);
-}
-
-@media (prefers-color-scheme: dark) {
-  html {
-    --background-color: rgb(11, 3, 49);
-    --text-color: rgb(145, 200, 255);
-    --li-border-color: rgb(182, 209, 234);
-    --text-shadow: rgb(28, 58, 170);
-  }
-}
-
-@font-face {
-  font-family: "impacted";
-  src: url(../type/IMPACTED.ttf);
-  font-weight: 700;
-  font-style: normal;
-}
+/**********
+•⁠  ⁠MARK: Body
+**********/
 
 body {
   font-family: monospace, tahoma, sans-serif;
@@ -54,8 +28,11 @@ h2 {
   margin: var(--whitespace-m);
 }
 
+/**********
+•⁠  ⁠MARK: UL
+**********/
+
 ul {
-  margin: var(--whitespace-m);
   margin-bottom: 17em;
   padding: 0;
   list-style-type: "";
@@ -78,7 +55,9 @@ li {
   width: 8em;
   height: 8em;
   padding: 0;
-  text-align: right;
+  text-align: center;
+  margin: var(--whitespace-xs);
+  font-weight: bold;
 }
 
 li img {
@@ -86,7 +65,6 @@ li img {
   height: 8em;
   object-fit: cover;
   clip-path: circle(50%);
-
   border-radius: 50%;
   border: 0.2em solid var(--li-border-color);
 }
@@ -108,20 +86,35 @@ li:nth-of-type(1) {
   grid-column-start: 2;
   grid-column-end: 3;
   grid-row: 1;
+  width: 9em;
+  height: 9em;
+}
+
+li:nth-of-type(1) img {
+  width: 9em;
+  height: 9em;
 }
 /* ariana^ */
 
 li:nth-of-type(2) {
   grid-column-start: 4;
   grid-column-end: 5;
-  grid-row: 1;
+  grid-row: 5;
+}
+li:nth-of-type(2) img {
+  width: 9em;
+  height: 9em;
 }
 /* billie^ */
 
 li:nth-of-type(3) {
-  grid-column-start: 7;
-  grid-column-end: 8;
-  grid-row: 1;
+  grid-column-start: 5;
+  grid-column-end: 6;
+  grid-row: 3;
+}
+li:nth-of-type(3) img {
+  width: 11em;
+  height: 11em;
 }
 
 /* harry^ */
@@ -131,13 +124,24 @@ li:nth-of-type(4) {
   grid-column-end: 4;
   grid-row: 3;
 }
+
+li:nth-of-type(4) img {
+  width: 8em;
+  height: 8em;
+}
 /* bruno^ */
 
 li:nth-of-type(5) {
-  grid-column-start: 6;
-  grid-column-end: 7;
-  grid-row: 3;
+  grid-column-start: 7;
+  grid-column-end: 8;
+  grid-row: 1;
 }
+
+li:nth-of-type(5) img {
+  width: 7em;
+  height: 7em;
+}
+
 /* gracie^ */
 
 li:nth-of-type(6) {
@@ -145,12 +149,22 @@ li:nth-of-type(6) {
   grid-column-end: 3;
   grid-row: 5;
 }
+
+li:nth-of-type(6) img {
+  width: 6em;
+  height: 6em;
+}
 /* sabrina^ */
 
 li:nth-of-type(7) {
   grid-column-start: 4;
   grid-column-end: 5;
-  grid-row: 5;
+  grid-row: 1;
+}
+
+li:nth-of-type(7) img {
+  width: 6em;
+  height: 6em;
 }
 /* oliviaD^ */
 
@@ -159,37 +173,18 @@ li:nth-of-type(8) {
   grid-column-end: 8;
   grid-row: 5;
 }
+li:nth-of-type(8) img {
+  width: 6em;
+  height: 6em;
+}
 /* taylorS^ */
 
+/**********
+•⁠  ⁠MARK: P & Footer
+**********/
 p {
   margin: var(--whitespace-m);
 }
-
-img,
-svg {
-  width: 10em;
-  height: 10em;
-  clip-path: circle(50%);
-  margin: var(--whitespace-m);
-  object-fit: cover;
-  border-radius: 50%;
-  border: 0.2em solid var(--li-border-color);
-}
-
-/* voor content op artiesten pagina^ */
-
-video {
-  width: 10em;
-  height: 10em;
-  object-fit: cover;
-  clip-path: circle(50%);
-  margin: var(--whitespace-m);
-  transform: rotate(90deg);
-  border-radius: 50%;
-  border: 0.2em solid var(--li-border-color);
-}
-
-/* voor content op artiesten pagina^ */
 
 footer {
   margin-top: 10em;
