@@ -11,11 +11,11 @@
     <link rel="stylesheet" href="./assets/style/general.css" />
 
     <!-- Importeer het webring component, voeg jouw eigen domein toe in data-page -->
-    <script
+    <!-- <script
       data-page="[https://voorbeeld.nl]"
       src="https://digitaaltuintje.nl/webring.js"
       defer
-    ></script>
+    ></script> -->
   </head>
 
   <body>
@@ -105,16 +105,36 @@
       </article>
     </main>
 
+    <button commandfor="cookieModal" command="show-modal">
+      Open cookie settings
+    </button>
+
+    <dialog id="cookieModal" open>
+      <form method="dialog">
+        <button id="closeX">X</button>
+        <p>
+          The website you are visiting uses external services that may process
+          your data. For more information, go to 'More'.
+        </p>
+
+        <p>You can change your choice at any time.</p>
+
+        <button>Allow</button>
+        <button>Deny</button>
+        <button>More</button>
+      </form>
+    </dialog>
+
     <!-- Cookies
 
-    De website die je bezoekt gebruikt externe diensten die jou gegevens kunnen verwerken.
+    The website you are visiting uses external services that may process your data.
+    For more information, go to ‘More’.
 
-    Ga voor meer informatie naar 'meer'
-    Je kunt je keuze altijd aanpassen.
+    You can change your choice at any time.
 
-    Akkoord
-    Niet Akkoord
-    Meer
+    Accept 
+    Decline
+    More
      -->
 
     <footer>

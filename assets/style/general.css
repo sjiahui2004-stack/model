@@ -6,7 +6,7 @@ html {
   color-scheme: light dark;
   --background-color: rgb(145, 200, 255);
   --text-color: rgb(11, 3, 49);
-  --li-border-color: #5884eb;
+  --li-border-color: rgb(255, 255, 255);
   --text-shadow: rgb(255, 255, 255);
 
   --whitespace-s: 1rem;
