@@ -34,3 +34,39 @@ html {
   font-weight: 700;
   font-style: normal;
 }
+
+a {
+  color: rgb(11, 3, 49);
+}
+
+a:visited {
+  color: rgb(11, 3, 49);
+}
+
+a:hover {
+  color: rgb(255, 242, 0);
+}
+
+a:focus {
+  color: rgb(255, 242, 0);
+  outline: 0.2em dashed rgb(255, 242, 0);
+}
+
+summary {
+  padding: 0.5em 1em;
+  border: 0.2em solid;
+  border-radius: 1em;
+  cursor: pointer;
+  position: fixed;
+  top: var(--whitespace-l);
+  right: var(--whitespace-l);
+}
+
+summary:hover {
+  color: rgb(255, 242, 0);
+}
+
+summary:focus {
+  color: rgb(255, 242, 0);
+  outline: 0.2em dashed rgb(255, 242, 0);
+}

@@ -402,3 +402,21 @@ Alle knoppen dezelfde layout, zodat je niet verplicht voelt om op akkoord te kli
 bron 'autoplay, muted, loop, playsinline' : https://www.w3schools.com/HTML/html5_video.asp
 
 ### vrijdag 25 september
+
+- Wat is HTML validatie, waarom is het belangrijk en hoe heb je dat vandaag uitgevoerd?
+
+- Welke dingen vielen je op?
+
+- Welke feedback heb je ontvangen tijdens het gesprek met je docenten?
+
+### maandag 28 september
+
+- Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
+
+- Wat voor type beperkingen hebben invloed op het gebruiken van websites?
+
+Motorisch, visueel, auditief en cognitief
+
+- Noem drie manieren om door een website te navigeren met jouw screenreader.
+
+met tab toets, links en headings

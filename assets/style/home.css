@@ -14,7 +14,7 @@ h1 {
   font-size: 5.5em;
   color: var(--text-color);
   text-shadow: 0.04em 0.04em var(--text-shadow);
-  margin: var(--whitespace-m);
+  margin: var(--whitespace-s);
   margin-bottom: 1em;
 }
 
@@ -22,10 +22,10 @@ h1 {
 
 h2 {
   font-family: monospace;
-  font-size: 2em;
+  font-size: 1.5em;
   color: var(--text-color);
   text-shadow: 0.03em 0.04em var(--text-shadow);
-  margin: var(--whitespace-m);
+  margin: var(--whitespace-s);
 }
 
 /**********
@@ -40,15 +40,6 @@ ul {
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-row: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
   gap: 3em;
-}
-
-a:hover {
-  color: rgb(255, 242, 0);
-}
-
-a:focus {
-  color: rgb(255, 242, 0);
-  outline: 0.2em dashed rgb(255, 242, 0);
 }
 
 li {
@@ -240,10 +231,10 @@ button:focus {
 }
 
 /**********
-•⁠  ⁠MARK: UL >40em
+•⁠  ⁠MARK: UL >50em
 **********/
 
-@media (width > 40em) {
+@media (width > 50rem) {
   h1 {
     font-family: "impacted", tahoma, sans-serif;
     font-size: 8em;
@@ -260,15 +251,6 @@ button:focus {
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-row: 1fr 1fr 1fr 1fr 1fr 1fr;
     gap: 3em;
-  }
-
-  a:hover {
-    color: rgb(255, 242, 0);
-  }
-
-  a:focus {
-    color: rgb(255, 242, 0);
-    outline: 0.2em dashed rgb(255, 242, 0);
   }
 
   li {
