@@ -2,11 +2,17 @@
 •⁠  ⁠MARK: Body
 **********/
 
+/* bron background repeat: https://developer.m
+ozilla.org/en-US/docs/Web/CSS/Guides/Backgrounds_and_borders */
 body {
   font-family: monospace, tahoma, sans-serif;
   background-color: var(--background-color);
   color: var(--text-color);
   margin: var(--whitespace-l);
+  background-image: var(--background-image);
+  background-repeat: repeat-y;
+  background-position: top center;
+  background-size: 100% auto;
 }
 
 h1 {
@@ -22,7 +28,7 @@ h1 {
 
 h2 {
   font-family: monospace;
-  font-size: 1.5em;
+  font-size: 1em;
   color: var(--text-color);
   text-shadow: 0.03em 0.04em var(--text-shadow);
   margin: var(--whitespace-s);
@@ -249,7 +255,7 @@ button:focus {
     padding: 0;
     list-style-type: "";
     display: grid;
-    grid-template-columns: repeat(7, 1fr);
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     gap: 2;
   }
 
