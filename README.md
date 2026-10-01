@@ -238,6 +238,15 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/place-item
 
 ### vrijdag 18 september
 
+<img width="660" height="1434" alt="IMG_4006" src="https://github.com/user-attachments/assets/68f788d2-ba5a-4f7c-8d35-5fa88a7c52e1" />
+<img width="660" height="1434" alt="IMG_4005" src="https://github.com/user-attachments/assets/8bafd702-ee6e-402a-bd3a-8893ec69f9b6" />
+<img width="660" height="1434" alt="IMG_4008" src="https://github.com/user-attachments/assets/fb1e756a-5471-48c6-883b-dbf592cef80e" />
+<img width="660" height="1434" alt="IMG_4007" src="https://github.com/user-attachments/assets/341a7456-43db-497c-9d12-97d367815193" />
+
+Eerste versie: mobile version^ dark and light mode. 
+
+Nu moet ik nadenken wat ik voor een breed scherm wil. 
+
 check out:
 
 Orienteren & begrijpen
@@ -401,6 +410,10 @@ Alle knoppen dezelfde layout, zodat je niet verplicht voelt om op akkoord te kli
 
 bron 'autoplay, muted, loop, playsinline' : https://www.w3schools.com/HTML/html5_video.asp
 
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-09-25 om 12 59 04" src="https://github.com/user-attachments/assets/f598f926-65d9-47bb-84a5-fc25ef359882" />
+
+(gebeurde^ toen ik meedere css bestanden maakte, maar vind de dynamische plaatsing van het content wel wat hebben) 
+
 ### vrijdag 25 september
 
 - Wat is HTML validatie, waarom is het belangrijk en hoe heb je dat vandaag uitgevoerd?
@@ -421,6 +434,22 @@ Motorisch, visueel, auditief en cognitief
 
 met tab toets, links en headings
 
+<img width="660" height="1434" alt="IMG_4043" src="https://github.com/user-attachments/assets/ac9c1df4-ac05-45ef-80a1-621c0f7daa4d" />
+
+(before media query ^^ op teledfoon)
+
+Ik had de deep dive van media queries vorige week niet meegenomen in mn DG. Ik dacht dat je met een code in je bestand het responsive kon maken, maar dat lukte maar niet. En volgens mij kan dat ook niet met alle content. Dus heb ik de media query nu toegevoegd.
+
+Alleen had ik het niet zo goed begrepen, want ik heb mijn mobile version niet behouden. Ik ben gewoon de groottes van mijn mobile version gaan aanpassen, waardoor ik uiteindelijk geen mobile version meer had.
+Dus heb ik alles wat nu als webgrootte stond onder de media query gezet en ben ik opnieuw een mobile version gaan maken met alle juiste maten. Was een heel gedoe, maar nu is het wel gelukt (denk ik).
+
+
+Ook heb ik > 40em veranderd naar 50em, omdat de website dan wat beter mee reageert.
+
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-10-01 om 15 21 38" src="https://github.com/user-attachments/assets/33a55bd2-ceaf-4300-a523-1813b1efcda2" />
+
+Ik heb heel vaak dit scherm geïnspecteerd met m’n grids, want er bleef maar een gap tussen Harry en Gracie. Nu, een week later, zie ik pas hoe eenvoudig de fout eigenlijk is. Ik heb Harry en Taylor een grid laten overslaan in de plaatsing. Nu is de gap weg...
+
 ### woensdag 30 september
 
 - Waar staat WCAG en A11y voor?
@@ -439,3 +468,32 @@ een screenreader want hij leest de hele zin op en dat kost meer tijd
 Mensen die niet tegen bewegende dingen kunnen, want daar heb ik niet over nagedacht en moet dat nu gaan aanpassen in mijn ontwerp.
 
 Ik vind wel dat het een beetje je vrijheid ineemt, omdat je niet "alles" wat je wilt kunt doen. Maar altijd moet nadenken over of wat je wilt maken toegankelijk is voor "iedereen".
+
+- Wat is volgens de WCAG checklist nog niet op orde?
+
+Cookie spacing, artiesten pagina horizontaal scrollen, menu detail/summary, autoplay uit knop en focus volgorde gaat niet op volgorde. 
+
+
+ <img width="488" height="224" alt="Scherm­afbeelding 2026-10-01 om 15 37 50" src="https://github.com/user-attachments/assets/6a55be17-029e-4a97-a236-ab5de128e531" />
+
+ z index^ opgelost
+
+ <img width="521" height="808" alt="Scherm­afbeelding 2026-10-01 om 14 35 56" src="https://github.com/user-attachments/assets/9b2e5f10-05d3-4a0d-a6d7-f916f9bcb4f5" />
+
+ auto margin^ opgelost 
+
+
+ versiering getekend:
+ <img width="2360" height="1640" alt="IMG_0519" src="https://github.com/user-attachments/assets/505356f9-5836-4846-a3d5-9e3d04b4a5e0" />
+
+ 
+<img width="498" height="733" alt="Scherm­afbeelding 2026-10-01 om 16 26 29" src="https://github.com/user-attachments/assets/39e22e24-49b1-4ec0-8c4b-42615ee4b2dc" />
+<img width="490" height="804" alt="Scherm­afbeelding 2026-10-01 om 16 25 53" src="https://github.com/user-attachments/assets/051b0986-a4d6-4f55-bb88-77cec08a8a35" />
+<img width="496" height="728" alt="Scherm­afbeelding 2026-10-01 om 16 26 15" src="https://github.com/user-attachments/assets/ec87e091-386d-44db-b913-44f7a5ffce6c" />
+<img width="1503" height="723" alt="Scherm­afbeelding 2026-10-01 om 16 27 38" src="https://github.com/user-attachments/assets/a352c1dc-fa1f-4193-8616-200e520639ee" />
+<img width="499" height="733" alt="Scherm­afbeelding 2026-10-01 om 16 26 43" src="https://github.com/user-attachments/assets/7be3707d-0abb-4eff-8113-f47ab72fb015" />
+
+- wat heb ik aangepast op basis van de checklist? 
+
+
+
