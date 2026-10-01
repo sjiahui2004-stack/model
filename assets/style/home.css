@@ -47,7 +47,7 @@ li {
   height: 6em;
   padding: 0;
   text-align: center;
-  margin: var(--whitespace-xs);
+  margin: auto;
   font-weight: bold;
 }
 
@@ -195,7 +195,7 @@ dialog {
   aspect-ratio: 1;
 
   padding: 3em;
-  margin: var(--whitespace-xl);
+  margin: auto;
   text-align: center;
   font-weight: bolder;
 }
@@ -259,7 +259,7 @@ button:focus {
     height: 8em;
     padding: 0;
     text-align: center;
-    margin: var(--whitespace-xs);
+    margin: auto;
     font-weight: bold;
   }
 
