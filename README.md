@@ -446,7 +446,8 @@ Dus heb ik alles wat nu als webgrootte stond onder de media query gezet en ben i
 
 Ook heb ik > 40em veranderd naar 50em, omdat de website dan wat beter mee reageert.
 
-<img width="1512" height="982" alt="Scherm­afbeelding 2026-10-01 om 15 21 38" src="https://github.com/user-attachments/assets/33a55bd2-ceaf-4300-a523-1813b1efcda2" />
+<img width="1214" height="611" alt="Scherm­afbeelding 2026-10-01 om 17 39 29" src="https://github.com/user-attachments/assets/a400459a-d074-4d97-b388-37aa635636c4" />
+
 
 Ik heb heel vaak dit scherm geïnspecteerd met m’n grids, want er bleef maar een gap tussen Harry en Gracie. Nu, een week later, zie ik pas hoe eenvoudig de fout eigenlijk is. Ik heb Harry en Taylor een grid laten overslaan in de plaatsing. Nu is de gap weg...
 
