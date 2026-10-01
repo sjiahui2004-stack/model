@@ -468,6 +468,15 @@ Mensen die niet tegen bewegende dingen kunnen, want daar heb ik niet over nageda
 
 Ik vind wel dat het een beetje je vrijheid ineemt, omdat je niet "alles" wat je wilt kunt doen. Maar altijd moet nadenken over of wat je wilt maken toegankelijk is voor "iedereen".
 
+- Wat moet ik nog verbeteren?
+
+Volgorde van de focus verbeteren.
+Spacing van de cookies verbeteren.
+Horizontaal scrollen oplossen.
+Menu met links werkend maken.
+High contrast mode laten werken.
+Knop toevoegen om autoplay uit te zetten.
+
 <img width="2360" height="1640" alt="IMG_0519" src="https://github.com/user-attachments/assets/c9e8ed7e-e5ad-4739-9e03-8ee42d1be3ac" />
 <img width="1503" height="723" alt="Scherm­afbeelding 2026-10-01 om 16 27 38" src="https://github.com/user-attachments/assets/e816853b-8845-409f-826f-627cb38ebc69" />
 <img width="499" height="733" alt="Scherm­afbeelding 2026-10-01 om 16 26 43" src="https://github.com/user-attachments/assets/cde5df18-86de-47f4-90de-786fc28c6778" />
@@ -475,4 +484,12 @@ Ik vind wel dat het een beetje je vrijheid ineemt, omdat je niet "alles" wat je 
 <img width="496" height="728" alt="Scherm­afbeelding 2026-10-01 om 16 26 15" src="https://github.com/user-attachments/assets/22c01e54-caf3-4c36-8b65-bda71c6543c4" />
 <img width="490" height="804" alt="Scherm­afbeelding 2026-10-01 om 16 25 53" src="https://github.com/user-attachments/assets/e21e607b-b379-4e44-8255-8177f0e63cfa" />
 
-wat heb ik veranderd op basis van de checklist?
+- Wat heb ik veranderd op basis van de checklist?
+
+Ik heb:
+
+De volgorde van focus verbeterd, cookies spaceing verbeterd, horizontaal scrollen verbeterd door margin aan te passen, menu met links werkend gemaakt door de styling in de juiste css te zetten en high contrast mode laten werken.
+
+Wat ik niet heb gedaan is een knop toevoegen zodat de autoplay uitgeschakeld kan worden. Als ik opzoek hoe het werkt, dan kom ik alleen maar javascript tegen.
+
+Geen idee hoe dat werkt dus ik wil er nog niet aan beginnen. Misschien weten docenten wel een ander oplossing.
