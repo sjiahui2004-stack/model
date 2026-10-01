@@ -243,9 +243,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/place-item
 <img width="660" height="1434" alt="IMG_4008" src="https://github.com/user-attachments/assets/fb1e756a-5471-48c6-883b-dbf592cef80e" />
 <img width="660" height="1434" alt="IMG_4007" src="https://github.com/user-attachments/assets/341a7456-43db-497c-9d12-97d367815193" />
 
-Eerste versie: mobile version^ dark and light mode. 
+Eerste versie: mobile version^ dark and light mode.
 
-Nu moet ik nadenken wat ik voor een breed scherm wil. 
+Nu moet ik nadenken wat ik voor een breed scherm wil.
 
 check out:
 
@@ -412,7 +412,7 @@ bron 'autoplay, muted, loop, playsinline' : https://www.w3schools.com/HTML/html5
 
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-25 om 12 59 04" src="https://github.com/user-attachments/assets/f598f926-65d9-47bb-84a5-fc25ef359882" />
 
-(gebeurde^ toen ik meedere css bestanden maakte, maar vind de dynamische plaatsing van het content wel wat hebben) 
+(gebeurde^ toen ik meedere css bestanden maakte, maar vind de dynamische plaatsing van het content wel wat hebben)
 
 ### vrijdag 25 september
 
@@ -443,11 +443,9 @@ Ik had de deep dive van media queries vorige week niet meegenomen in mn DG. Ik d
 Alleen had ik het niet zo goed begrepen, want ik heb mijn mobile version niet behouden. Ik ben gewoon de groottes van mijn mobile version gaan aanpassen, waardoor ik uiteindelijk geen mobile version meer had.
 Dus heb ik alles wat nu als webgrootte stond onder de media query gezet en ben ik opnieuw een mobile version gaan maken met alle juiste maten. Was een heel gedoe, maar nu is het wel gelukt (denk ik).
 
-
 Ook heb ik > 40em veranderd naar 50em, omdat de website dan wat beter mee reageert.
 
 <img width="1214" height="611" alt="Scherm­afbeelding 2026-10-01 om 17 39 29" src="https://github.com/user-attachments/assets/a400459a-d074-4d97-b388-37aa635636c4" />
-
 
 Ik heb heel vaak dit scherm geïnspecteerd met m’n grids, want er bleef maar een gap tussen Harry en Gracie. Nu, een week later, zie ik pas hoe eenvoudig de fout eigenlijk is. Ik heb Harry en Taylor een grid laten overslaan in de plaatsing. Nu is de gap weg...
 
@@ -470,31 +468,4 @@ Mensen die niet tegen bewegende dingen kunnen, want daar heb ik niet over nageda
 
 Ik vind wel dat het een beetje je vrijheid ineemt, omdat je niet "alles" wat je wilt kunt doen. Maar altijd moet nadenken over of wat je wilt maken toegankelijk is voor "iedereen".
 
-- Wat is volgens de WCAG checklist nog niet op orde?
-
-Cookie spacing, artiesten pagina horizontaal scrollen, menu detail/summary, autoplay uit knop en focus volgorde gaat niet op volgorde. 
-
-
- <img width="488" height="224" alt="Scherm­afbeelding 2026-10-01 om 15 37 50" src="https://github.com/user-attachments/assets/6a55be17-029e-4a97-a236-ab5de128e531" />
-
- z index^ opgelost
-
- <img width="521" height="808" alt="Scherm­afbeelding 2026-10-01 om 14 35 56" src="https://github.com/user-attachments/assets/9b2e5f10-05d3-4a0d-a6d7-f916f9bcb4f5" />
-
- auto margin^ opgelost 
-
-
- versiering getekend:
- <img width="2360" height="1640" alt="IMG_0519" src="https://github.com/user-attachments/assets/505356f9-5836-4846-a3d5-9e3d04b4a5e0" />
-
- 
-<img width="498" height="733" alt="Scherm­afbeelding 2026-10-01 om 16 26 29" src="https://github.com/user-attachments/assets/39e22e24-49b1-4ec0-8c4b-42615ee4b2dc" />
-<img width="490" height="804" alt="Scherm­afbeelding 2026-10-01 om 16 25 53" src="https://github.com/user-attachments/assets/051b0986-a4d6-4f55-bb88-77cec08a8a35" />
-<img width="496" height="728" alt="Scherm­afbeelding 2026-10-01 om 16 26 15" src="https://github.com/user-attachments/assets/ec87e091-386d-44db-b913-44f7a5ffce6c" />
-<img width="1503" height="723" alt="Scherm­afbeelding 2026-10-01 om 16 27 38" src="https://github.com/user-attachments/assets/a352c1dc-fa1f-4193-8616-200e520639ee" />
-<img width="499" height="733" alt="Scherm­afbeelding 2026-10-01 om 16 26 43" src="https://github.com/user-attachments/assets/7be3707d-0abb-4eff-8113-f47ab72fb015" />
-
-- wat heb ik aangepast op basis van de checklist? 
-
-
-
+wat heb ik veranderd op basis van de checklist?
