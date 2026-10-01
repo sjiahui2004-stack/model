@@ -255,10 +255,10 @@ a:focus {
 }
 
 /**********
-•⁠  ⁠MARK: UL >50em
+•⁠  ⁠MARK: UL >70em
 **********/
 
-@media (width > 50rem) {
+@media (width > 70rem) {
   h1 {
     font-family: "impacted", tahoma, sans-serif;
     font-size: 8em;
