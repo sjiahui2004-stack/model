@@ -468,4 +468,11 @@ Mensen die niet tegen bewegende dingen kunnen, want daar heb ik niet over nageda
 
 Ik vind wel dat het een beetje je vrijheid ineemt, omdat je niet "alles" wat je wilt kunt doen. Maar altijd moet nadenken over of wat je wilt maken toegankelijk is voor "iedereen".
 
-wat heb ik veranderd op basis van de checklist??
+<img width="2360" height="1640" alt="IMG_0519" src="https://github.com/user-attachments/assets/c9e8ed7e-e5ad-4739-9e03-8ee42d1be3ac" />
+<img width="1503" height="723" alt="Scherm­afbeelding 2026-10-01 om 16 27 38" src="https://github.com/user-attachments/assets/e816853b-8845-409f-826f-627cb38ebc69" />
+<img width="499" height="733" alt="Scherm­afbeelding 2026-10-01 om 16 26 43" src="https://github.com/user-attachments/assets/cde5df18-86de-47f4-90de-786fc28c6778" />
+<img width="498" height="733" alt="Scherm­afbeelding 2026-10-01 om 16 26 29" src="https://github.com/user-attachments/assets/72e0b4ef-6214-4502-8b41-83f26d274a13" />
+<img width="496" height="728" alt="Scherm­afbeelding 2026-10-01 om 16 26 15" src="https://github.com/user-attachments/assets/22c01e54-caf3-4c36-8b65-bda71c6543c4" />
+<img width="490" height="804" alt="Scherm­afbeelding 2026-10-01 om 16 25 53" src="https://github.com/user-attachments/assets/e21e607b-b379-4e44-8255-8177f0e63cfa" />
+
+wat heb ik veranderd op basis van de checklist?
