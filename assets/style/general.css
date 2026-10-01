@@ -51,22 +51,3 @@ a:focus {
   color: rgb(255, 242, 0);
   outline: 0.2em dashed rgb(255, 242, 0);
 }
-
-summary {
-  padding: 0.5em 1em;
-  border: 0.2em solid;
-  border-radius: 1em;
-  cursor: pointer;
-  position: fixed;
-  top: var(--whitespace-l);
-  right: var(--whitespace-l);
-}
-
-summary:hover {
-  color: rgb(255, 242, 0);
-}
-
-summary:focus {
-  color: rgb(255, 242, 0);
-  outline: 0.2em dashed rgb(255, 242, 0);
-}

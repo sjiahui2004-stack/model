@@ -420,3 +420,22 @@ Motorisch, visueel, auditief en cognitief
 - Noem drie manieren om door een website te navigeren met jouw screenreader.
 
 met tab toets, links en headings
+
+### woensdag 30 september
+
+- Waar staat WCAG en A11y voor?
+  Web content accessibility guidelines
+
+accessibility toegankelijke
+
+- Wat vind je lastiger, je laptop/websites alleen met een toetsenbord bedienen of met een screenreader? Waarom? Waar moet je nog mee oefenen?
+
+een screenreader want hij leest de hele zin op en dat kost meer tijd
+
+- Met welke beperking rekening houden vind je het meest lastig?
+  Vind je dat je beperkt wordt in wat je kunt ontwerpen?
+  Of heb je al manieren gevonden om vanuit een solide basis - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden?
+
+Mensen die niet tegen bewegende dingen kunnen, want daar heb ik niet over nagedacht en moet dat nu gaan aanpassen in mijn ontwerp.
+
+Ik vind wel dat het een beetje je vrijheid ineemt, omdat je niet "alles" wat je wilt kunt doen. Maar altijd moet nadenken over of wat je wilt maken toegankelijk is voor "iedereen".

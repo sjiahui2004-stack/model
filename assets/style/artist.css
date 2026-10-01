@@ -34,7 +34,6 @@ video {
   width: 7em;
   height: 7em;
   object-fit: cover;
-  clip-path: circle(50%);
   margin: var(--whitespace-xs);
   transform: rotate(90deg);
   border-radius: 50%;
@@ -101,6 +100,48 @@ video:nth-of-type(5) {
   grid-row: 3;
   width: 9em;
   height: 9em;
+}
+
+summary {
+  padding: 0.5em 1em;
+  border: 0.2em solid;
+  border-radius: 1em;
+  cursor: pointer;
+  position: fixed;
+  top: var(--whitespace-l);
+  right: var(--whitespace-l);
+}
+
+summary:hover {
+  color: rgb(255, 242, 0);
+}
+
+summary:focus {
+  color: rgb(255, 242, 0);
+  outline: 0.2em dashed rgb(255, 242, 0);
+}
+
+details {
+  padding: 0.5em 1em;
+  border-radius: 1em;
+  cursor: pointer;
+  position: fixed;
+  top: var(--whitespace-l);
+  right: var(--whitespace-l);
+
+  nav {
+    border: 0.2em solid;
+    border-radius: 2em;
+    background-color: var(--li-border-color);
+    padding: 1em;
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: "";
+    width: max-content;
+  }
 }
 
 /**********
