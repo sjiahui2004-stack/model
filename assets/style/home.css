@@ -76,7 +76,7 @@ IBCDYwMzhqMGo0qAIAsAIB&sourceid=chrome&source=chrome.ob&ie=UTF-8
 Google gemini^ */
 
 li a:hover img {
-  border-color: rgb(255, 242, 0);
+  border-color: var(--a-extra-color);
 }
 
 li:nth-of-type(1) {
@@ -237,6 +237,23 @@ button:focus {
   outline: 0.2em dashed rgb(255, 242, 0);
 }
 
+a {
+  color: var(--a-text-color);
+}
+
+a:visited {
+  color: var(--a-text-color);
+}
+
+a:hover {
+  color: var(--a-extra-color);
+}
+
+a:focus {
+  color: var(--a-extra-color);
+  outline: 0.2em dashed var(--a-extra-color);
+}
+
 /**********
 •⁠  ⁠MARK: UL >50em
 **********/
@@ -287,7 +304,7 @@ IBCDYwMzhqMGo0qAIAsAIB&sourceid=chrome&source=chrome.ob&ie=UTF-8
 Google gemini^ */
 
   li a:hover img {
-    border-color: rgb(255, 242, 0);
+    border-color: var(--a-extra-color);
   }
 
   li:nth-of-type(1) {
