@@ -468,4 +468,4 @@ Mensen die niet tegen bewegende dingen kunnen, want daar heb ik niet over nageda
 
 Ik vind wel dat het een beetje je vrijheid ineemt, omdat je niet "alles" wat je wilt kunt doen. Maar altijd moet nadenken over of wat je wilt maken toegankelijk is voor "iedereen".
 
-wat heb ik veranderd op basis van de checklist?
+wat heb ik veranderd op basis van de checklist??
