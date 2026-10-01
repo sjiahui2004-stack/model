@@ -5,7 +5,7 @@
 html {
   color-scheme: light dark;
   --background-color: rgb(145, 200, 255);
-  --background-image: url("../CloudsV3.png");
+  --background-image: url("../../CloudsV3.png");
   --text-color: rgb(11, 3, 49);
   --li-border-color: #5884eb;
   --text-shadow: rgb(255, 255, 255);
