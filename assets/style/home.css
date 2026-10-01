@@ -80,8 +80,8 @@ li:nth-of-type(1) {
 }
 
 li:nth-of-type(1) img {
-  width: 7em;
-  height: 7em;
+  width: 9em;
+  height: 9em;
 }
 /* ariana^ */
 
@@ -92,8 +92,8 @@ li:nth-of-type(2) {
 }
 
 li:nth-of-type(2) img {
-  width: 6em;
-  height: 6em;
+  width: 8em;
+  height: 8em;
 }
 /* billie^ */
 
@@ -104,8 +104,8 @@ li:nth-of-type(3) {
 }
 
 li:nth-of-type(3) img {
-  width: 8em;
-  height: 8em;
+  width: 10em;
+  height: 10em;
 }
 /* harry^ */
 
@@ -128,8 +128,8 @@ li:nth-of-type(5) {
 }
 
 li:nth-of-type(5) img {
-  width: 5em;
-  height: 5em;
+  width: 8em;
+  height: 8em;
 }
 /* gracie^ */
 
@@ -140,8 +140,8 @@ li:nth-of-type(6) {
 }
 
 li:nth-of-type(6) img {
-  width: 5em;
-  height: 5em;
+  width: 7em;
+  height: 7em;
 }
 /* sabrina^ */
 
@@ -152,8 +152,8 @@ li:nth-of-type(7) {
 }
 
 li:nth-of-type(7) img {
-  width: 5em;
-  height: 5em;
+  width: 6em;
+  height: 6em;
 }
 /* oliviaD^ */
 
@@ -249,9 +249,8 @@ button:focus {
     padding: 0;
     list-style-type: "";
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-    grid-row: 1fr 1fr 1fr 1fr 1fr 1fr;
-    gap: 3em;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 2;
   }
 
   li {
@@ -294,30 +293,30 @@ Google gemini^ */
   }
 
   li:nth-of-type(1) img {
-    width: 9em;
-    height: 9em;
+    width: 10em;
+    height: 10em;
   }
   /* ariana^ */
 
   li:nth-of-type(2) {
     grid-column-start: 4;
     grid-column-end: 5;
-    grid-row: 5;
+    grid-row: 1;
   }
   li:nth-of-type(2) img {
-    width: 9em;
-    height: 9em;
+    width: 8em;
+    height: 8em;
   }
   /* billie^ */
 
   li:nth-of-type(3) {
-    grid-column-start: 5;
-    grid-column-end: 6;
-    grid-row: 3;
+    grid-column-start: 6;
+    grid-column-end: 7;
+    grid-row: 1;
   }
   li:nth-of-type(3) img {
-    width: 11em;
-    height: 11em;
+    width: 12em;
+    height: 12em;
   }
 
   /* harry^ */
@@ -335,14 +334,14 @@ Google gemini^ */
   /* bruno^ */
 
   li:nth-of-type(5) {
-    grid-column-start: 7;
-    grid-column-end: 8;
-    grid-row: 1;
+    grid-column-start: 5;
+    grid-column-end: 6;
+    grid-row: 3;
   }
 
   li:nth-of-type(5) img {
-    width: 7em;
-    height: 7em;
+    width: 10em;
+    height: 10em;
   }
 
   /* gracie^ */
@@ -354,26 +353,26 @@ Google gemini^ */
   }
 
   li:nth-of-type(6) img {
-    width: 6em;
-    height: 6em;
+    width: 9em;
+    height: 9em;
   }
   /* sabrina^ */
 
   li:nth-of-type(7) {
     grid-column-start: 4;
     grid-column-end: 5;
-    grid-row: 1;
+    grid-row: 5;
   }
 
   li:nth-of-type(7) img {
-    width: 6em;
-    height: 6em;
+    width: 8em;
+    height: 8em;
   }
   /* oliviaD^ */
 
   li:nth-of-type(8) {
-    grid-column-start: 7;
-    grid-column-end: 8;
+    grid-column-start: 6;
+    grid-column-end: 7;
     grid-row: 5;
   }
   li:nth-of-type(8) img {
