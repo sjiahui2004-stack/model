@@ -496,6 +496,13 @@ Geen idee hoe dat werkt dus ik wil er nog niet aan beginnen. Misschien weten doc
 
 ### vrijdag 2 oktober
 
+<img width="496" height="723" alt="Scherm­afbeelding 2026-10-01 om 18 17 18" src="https://github.com/user-attachments/assets/c45e101d-9678-4464-826e-7e832e56baa1" />
+<img width="494" height="730" alt="Scherm­afbeelding 2026-10-01 om 18 16 58" src="https://github.com/user-attachments/assets/4c35e492-7f6c-4540-9aa8-fbf2c19b9a8d" />
+
+
+^dark mode background 2 versies.
+
+
 <img width="680" height="490" alt="Scherm­afbeelding 2026-10-02 om 10 35 13" src="https://github.com/user-attachments/assets/0a7ff8be-9527-480d-84e6-e1c4555c86d5" />
 <img width="737" height="545" alt="Scherm­afbeelding 2026-10-02 om 10 35 32" src="https://github.com/user-attachments/assets/b76b16a3-e56b-4286-9a63-2c639dfeca9a" />
 <img width="643" height="470" alt="Scherm­afbeelding 2026-10-02 om 10 35 25" src="https://github.com/user-attachments/assets/c1965be1-ee87-4f04-9bdb-fcd033384498" />
