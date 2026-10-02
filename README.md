@@ -495,8 +495,7 @@ Wat ik niet heb gedaan is een knop toevoegen zodat de autoplay uitgeschakeld kan
 Geen idee hoe dat werkt dus ik wil er nog niet aan beginnen. Misschien weten docenten wel een ander oplossing.
 
 ### vrijdag 2 oktober
+
 <img width="680" height="490" alt="Scherm­afbeelding 2026-10-02 om 10 35 13" src="https://github.com/user-attachments/assets/0a7ff8be-9527-480d-84e6-e1c4555c86d5" />
 <img width="737" height="545" alt="Scherm­afbeelding 2026-10-02 om 10 35 32" src="https://github.com/user-attachments/assets/b76b16a3-e56b-4286-9a63-2c639dfeca9a" />
 <img width="643" height="470" alt="Scherm­afbeelding 2026-10-02 om 10 35 25" src="https://github.com/user-attachments/assets/c1965be1-ee87-4f04-9bdb-fcd033384498" />
-
-
