@@ -499,12 +499,22 @@ Geen idee hoe dat werkt dus ik wil er nog niet aan beginnen. Misschien weten doc
 <img width="496" height="723" alt="Scherm­afbeelding 2026-10-01 om 18 17 18" src="https://github.com/user-attachments/assets/c45e101d-9678-4464-826e-7e832e56baa1" />
 <img width="494" height="730" alt="Scherm­afbeelding 2026-10-01 om 18 16 58" src="https://github.com/user-attachments/assets/4c35e492-7f6c-4540-9aa8-fbf2c19b9a8d" />
 
-
 ^dark mode background 2 versies.
-
 
 <img width="680" height="490" alt="Scherm­afbeelding 2026-10-02 om 10 35 13" src="https://github.com/user-attachments/assets/0a7ff8be-9527-480d-84e6-e1c4555c86d5" />
 <img width="737" height="545" alt="Scherm­afbeelding 2026-10-02 om 10 35 32" src="https://github.com/user-attachments/assets/b76b16a3-e56b-4286-9a63-2c639dfeca9a" />
 <img width="643" height="470" alt="Scherm­afbeelding 2026-10-02 om 10 35 25" src="https://github.com/user-attachments/assets/c1965be1-ee87-4f04-9bdb-fcd033384498" />
 
-Checkout:
+### maandag 5 oktober 
+
+- Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)
+
+- Wat is jouw ideale regellengte (measure)? Leg uit waarom.
+
+
+- Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
+
+
+<img width="733" height="565" alt="Scherm­afbeelding 2026-10-07 om 09 44 29" src="https://github.com/user-attachments/assets/839754a7-6190-4e7e-83d7-5302395b3c39" />
+
+
