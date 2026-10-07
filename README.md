@@ -518,3 +518,13 @@ Geen idee hoe dat werkt dus ik wil er nog niet aan beginnen. Misschien weten doc
 <img width="733" height="565" alt="Scherm­afbeelding 2026-10-07 om 09 44 29" src="https://github.com/user-attachments/assets/839754a7-6190-4e7e-83d7-5302395b3c39" />
 
 
+### woensdag 7 oktober 
+
+<img width="1491" height="766" alt="Scherm­afbeelding 2026-10-07 om 12 20 42" src="https://github.com/user-attachments/assets/3f423237-dea1-4794-bad2-07a42f51be0b" />
+<img width="386" height="559" alt="Scherm­afbeelding 2026-10-07 om 12 22 08" src="https://github.com/user-attachments/assets/58e0b344-223a-4e13-a75f-677373d13b9c" />
+
+
+- Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
+- Noem drie manieren om chaos in je ontwerp te voorkomen.
+- Hoeveel gekkigheid moet er in je werk zitten?
+
