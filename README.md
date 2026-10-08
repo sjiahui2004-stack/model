@@ -4,34 +4,28 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-### woensdag 7 oktober 
-
+### woensdag 7 oktober
 
 <img width="1505" height="733" alt="Scherm­afbeelding 2026-10-08 om 17 25 33" src="https://github.com/user-attachments/assets/4d6ab0e2-5459-47f2-909e-0e57360008d2" />
 <img width="1493" height="751" alt="Scherm­afbeelding 2026-10-08 om 17 25 44" src="https://github.com/user-attachments/assets/b9bbd11b-8f9d-4e0d-ab3c-783d8f41630f" />
 <img width="1502" height="610" alt="Scherm­afbeelding 2026-10-08 om 17 25 50" src="https://github.com/user-attachments/assets/170f4cad-2c7e-4edc-bfcb-c9fd89dae469" />
 
-
 <img width="1491" height="766" alt="Scherm­afbeelding 2026-10-07 om 12 20 42" src="https://github.com/user-attachments/assets/3f423237-dea1-4794-bad2-07a42f51be0b" />
 <img width="386" height="559" alt="Scherm­afbeelding 2026-10-07 om 12 22 08" src="https://github.com/user-attachments/assets/58e0b344-223a-4e13-a75f-677373d13b9c" />
-
 
 - Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
 - Noem drie manieren om chaos in je ontwerp te voorkomen.
 - Hoeveel gekkigheid moet er in je werk zitten?
 
-### maandag 5 oktober 
+### maandag 5 oktober
 
 - Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)
 
 - Wat is jouw ideale regellengte (measure)? Leg uit waarom.
 
-
 - Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
 
-
 <img width="733" height="565" alt="Scherm­afbeelding 2026-10-07 om 09 44 29" src="https://github.com/user-attachments/assets/839754a7-6190-4e7e-83d7-5302395b3c39" />
-
 
 ### vrijdag 2 oktober
 
@@ -533,3 +527,8 @@ Jiapetal heb ik gekoppeld door transit, GitHub en vsccodium te gebruiken.
 
 - Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
   Door de code te veranderen in CSS, HTML en evt JS. Hoe het gepubliceert moet worden is mij nog niet gelukt.
+  ^dark mode background 2 versies.
+
+<img width="680" height="490" alt="Scherm­afbeelding 2026-10-02 om 10 35 13" src="https://github.com/user-attachments/assets/0a7ff8be-9527-480d-84e6-e1c4555c86d5" />
+<img width="737" height="545" alt="Scherm­afbeelding 2026-10-02 om 10 35 32" src="https://github.com/user-attachments/assets/b76b16a3-e56b-4286-9a63-2c639dfeca9a" />
+<img width="643" height="470" alt="Scherm­afbeelding 2026-10-02 om 10 35 25" src="https://github.com/user-attachments/assets/c1965be1-ee87-4f04-9bdb-fcd033384498" />
