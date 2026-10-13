@@ -195,15 +195,18 @@ dialog {
   color: var(--dialog-text);
   border: 0.5em solid var(--dialog-border);
   border-radius: 10%;
-
+  position: fixed;
+  z-index: 10;
   width: 18em;
   max-width: 23em;
-  aspect-ratio: 1;
-
   padding: 3em;
   margin: auto;
   text-align: center;
   font-weight: bolder;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
 }
 
 dialog:focus {
@@ -214,6 +217,18 @@ dialog:focus {
 dialog::backdrop {
   background-color: rgb(0 0 0 / 50%);
   backdrop-filter: blur(2px);
+}
+
+body:has(dialog[open])::before {
+  content: "";
+  position: fixed;
+  background-color: rgb(0 0 0 / 50%);
+  backdrop-filter: blur(2px);
+  z-index: 9;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
 }
 
 button {
@@ -237,6 +252,49 @@ button:focus {
   outline: 0.2em dashed rgb(255, 242, 0);
 }
 
+summary {
+  background-color: var(--button-background);
+  color: var(--button-text);
+  border: 0.3em solid var(--dialog-border);
+  border-radius: 1em;
+  padding: 0.5em 1em;
+  cursor: pointer;
+  font-weight: bold;
+  display: inline-block;
+  list-style: none;
+  font-size: 0.85em;
+}
+
+summary:hover {
+  background-color: var(--dialog-backgroundcolor);
+  color: rgb(255, 242, 0);
+}
+
+summary:focus {
+  color: rgb(255, 242, 0);
+  outline: 0.2em dashed rgb(255, 242, 0);
+}
+
+summary span:last-child {
+  display: none;
+}
+
+details {
+  display: inline-block;
+}
+
+details[open] summary span:first-child {
+  display: none;
+}
+
+details[open] summary span:last-child {
+  display: inline;
+}
+
+form:has(details[open]) .cookie-text {
+  display: none;
+}
+
 a {
   color: var(--a-text-color);
 }
@@ -254,11 +312,26 @@ a:focus {
   outline: 0.2em dashed var(--a-extra-color);
 }
 
+dialog a {
+  color: var(--button-background);
+}
+
+dialog a:visited {
+  color: var(--button-background);
+}
+
+dialog a:hover {
+  color: rgb(255, 242, 0);
+}
+dialog a:focus {
+  color: rgb(255, 242, 0);
+}
+
 /**********
-•⁠  ⁠MARK: UL >70em
+•⁠  ⁠MARK: UL >60em
 **********/
 
-@media (width > 70rem) {
+@media (width > 60rem) {
   h1 {
     font-family: "impacted", tahoma, sans-serif;
     font-size: 8em;
@@ -416,7 +489,7 @@ Google gemini^ */
   }
 
   /**********
-•⁠  ⁠MARK: Cookies >40em
+•⁠  ⁠MARK: Cookies >60em
 **********/
 
   html {

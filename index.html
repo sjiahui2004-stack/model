@@ -22,62 +22,95 @@
     <header>
       <h1>Jia Petal</h1>
 
+      <!-- id was ook gebruikt in de deepdive, 
+       dat is waarom ik hier wel id heb gebruikt -->
+
+      <dialog id="cookieModal" open>
+        <form method="dialog">
+          <p class="cookie-text">
+            The website you are visiting uses external services that may process
+            your data. For more information, go to 'More'.
+          </p>
+
+          <p class="cookie-text">You can change your choice at any time.</p>
+
+          <details>
+            <summary>
+              <span>More</span>
+              <span>Back</span>
+            </summary>
+
+            <p>
+              This website uses cookies to collect information about your
+              browsing behaviour.
+            </p>
+
+            <p>
+              Your data may be shared with external services.
+
+              <a
+                href="https://docs.github.com/en/site-policy/privacy-policies/github-cookies"
+                >Github</a
+              >
+              <a href="https://digitaaltuintje.nl/">Digitaaltuintje</a>
+            </p>
+          </details>
+
+          <button>Allow</button>
+          <button type="button">Deny</button>
+        </form>
+      </dialog>
+
       <nav>
         <ul>
           <li>
             <a href="ariana.html">
-              <img src="Jiapetal content/Ari index.png" alt="Ariana index" />
+              <img src="Jiapetalcontent/Ariindex.png" alt="Ariana Grande" />
               Ariana Grande
             </a>
           </li>
           <li>
             <a href="billie.html">
-              <img src="Jiapetal content/Billie index.png" alt="Billie index" />
+              <img src="Jiapetalcontent/Billieindex.png" alt="Billie Eilish" />
               Billie Eilish
             </a>
           </li>
           <li>
             <a href="harry.html">
-              <img src="Jiapetal content/Harry index.png" alt="Harry index" />
+              <img src="Jiapetalcontent/Harryindex.png" alt="Harry Styles" />
               Harry Styles
             </a>
           </li>
           <li>
             <a href="bruno.html">
-              <img src="Jiapetal content/Bruno index.png" alt="Bruno index" />
+              <img src="Jiapetalcontent/Brunoindex.png" alt="Bruno Mars" />
               Bruno Mars
             </a>
           </li>
           <li>
             <a href="gracie.html">
-              <img src="Jiapetal content/Gracie index.png" alt="Gracie index" />
+              <img src="Jiapetalcontent/Gracieindex.png" alt="Gracie Abrams" />
               Gracie Abrams
             </a>
           </li>
           <li>
             <a href="sabrina.html">
               <img
-                src="Jiapetal content/Sabrina index.png"
-                alt="Sabrina index"
+                src="Jiapetalcontent/Sabrinaindex.png"
+                alt="Sabrina Carpenter"
               />
               Sabrina Carpenter
             </a>
           </li>
           <li>
             <a href="oliviad.html">
-              <img
-                src="Jiapetal content/OliviaD index.png"
-                alt="OliviaD index"
-              />
+              <img src="Jiapetalcontent/OliviaDindex.png" alt="Olivia Dean" />
               Olivia Dean
             </a>
           </li>
           <li>
             <a href="taylor.html">
-              <img
-                src="Jiapetal content/TaylorS index.png"
-                alt="TaylorS index"
-              />
+              <img src="Jiapetalcontent/TaylorSindex.png" alt="Taylor Swift" />
               Taylor Swift
             </a>
           </li>
@@ -106,34 +139,6 @@
     <button commandfor="cookieModal" command="show-modal">
       Open cookie settings
     </button>
-
-    <dialog id="cookieModal" open>
-      <form method="dialog">
-        <button id="closeX">X</button>
-        <p>
-          The website you are visiting uses external services that may process
-          your data. For more information, go to 'More'.
-        </p>
-
-        <p>You can change your choice at any time.</p>
-
-        <button>Allow</button>
-        <button>Deny</button>
-        <button>More</button>
-      </form>
-    </dialog>
-
-    <!-- Cookies
-
-    The website you are visiting uses external services that may process your data.
-    For more information, go to ‘More’.
-
-    You can change your choice at any time.
-
-    Accept 
-    Decline
-    More
-     -->
 
     <footer>
       <p>[Copyleft 2026, all wrongs reversed]</p>
