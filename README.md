@@ -6,6 +6,13 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### vrijdag 8 oktober
 
+<img width="782" height="461" alt="Scherm­afbeelding 2026-10-13 om 18 57 25" src="https://github.com/user-attachments/assets/436ce42a-0936-4296-9670-c6a028e6a2dd" />
+<img width="603" height="680" alt="Scherm­afbeelding 2026-10-13 om 18 34 00" src="https://github.com/user-attachments/assets/d85c0426-00d1-4f3a-a3af-7b10ff1c64c7" />
+
+<img width="621" height="650" alt="Scherm­afbeelding 2026-10-13 om 18 34 07" src="https://github.com/user-attachments/assets/ce12c64d-892a-4fc7-a558-d7bb275946d1" />
+
+
+
 ### woensdag 7 oktober
 
 <img width="1505" height="733" alt="Scherm­afbeelding 2026-10-08 om 17 25 33" src="https://github.com/user-attachments/assets/4d6ab0e2-5459-47f2-909e-0e57360008d2" />
