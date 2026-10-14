@@ -6,8 +6,19 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### vrijdag 8 oktober
 
+- Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
 
+Ik gebruik de grootte, breedte en het gewicht van de letters om te laten zien hoe bepaalde woorden worden uitgesproken in het nummer. Daarnaast gebruik ik hoofdletters en tekstrotatie om de sfeer en de manier waarop de tekst gezongen wordt terug te laten komen.
 
+- Wat voegt iedere variabele toe aan je ontwerp (denk aan leesbaarheid, hiërarchie of de uitstraling die je wil bereiken)?
+
+Door de lettergrootte aan te passen kan ik belangrijke woorden meer laten opvallen en hiërarchie creëren. Met het gewicht kan ik bepaalde woorden extra nadruk geven. De breedte van de letters zorgt voor afwisseling en maakt het ontwerp wat speelser.
+
+- Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken?
+bij verse 1 en de stukken waar ze continu dezelfde lyrics achter elkaar zingen om en om kunnen laten animeren. Is denk leuker dan 10 keer hetzelfde ontwerp onder elkaar te hebben. 
+
+Feedback songtekst: 
+TBD
 
 ### woensdag 7 oktober
 
@@ -19,16 +30,39 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 <img width="386" height="559" alt="Scherm­afbeelding 2026-10-07 om 12 22 08" src="https://github.com/user-attachments/assets/58e0b344-223a-4e13-a75f-677373d13b9c" />
 
 - Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
+voor ontwerper is het handig om daarmee elementen te verplaatsen. 
+voor de bezoeker is het overzichtelijker en geeft de pagina meer structuur. 
+  
 - Noem drie manieren om chaos in je ontwerp te voorkomen.
+Genoeg witruimte gebruiken.
+geen vloekende kleuren gebruiken.
+een grid gebruiken voor verplaatsen van elementen.  
+
 - Hoeveel gekkigheid moet er in je werk zitten?
+Genoeg tot dat het overzichtelijke weg is. Maar ik denk dat je best ver kunt gaan met de gekkigheid. 
 
 ### maandag 5 oktober
 
 - Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)
 
+ Kerning, tracking en leading gaan over de ruimte tussen letters en regels. 
+ 
+ Flush-left, flush-right, centered en justified zijn manieren om tekst uit te lijnen. 
+ 
+ Indent en outdent gaan over hoe je tekst laat inspringen of juist naar buiten laat komen.
+ 
+ Modular scale helpt om lettergroottes in een vaste verhouding te gebruiken en movable type is een oude druktechniek met losse letters. 
+ Een focuspunt is het onderdeel dat als eerste je aandacht trekt. Met verschillende soorten contrast, zoals grootte, kleur, vorm, gewicht en plaatsing, kun je bepaalde onderdelen meer laten opvallen. 
+ 
+ Spatial tension gaat over hoe de afstand en plaatsing van elementen spanning kunnen creëren in een ontwerp.
+
+ 
 - Wat is jouw ideale regellengte (measure)? Leg uit waarom.
 
+Heb ik nog niet bedacht.
+
 - Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
+  Grootte en plaatsing, omdat dat je daarmee het duidelijkst hierachie kan aantonen vind ik. 
 
 <img width="733" height="565" alt="Scherm­afbeelding 2026-10-07 om 09 44 29" src="https://github.com/user-attachments/assets/839754a7-6190-4e7e-83d7-5302395b3c39" />
 
@@ -418,6 +452,17 @@ grid-template-columns:
 
 ### woensdag 9 sept
 
+visueel research
+
+<img width="559" height="593" alt="Scherm­afbeelding 2026-10-14 om 12 44 25" src="https://github.com/user-attachments/assets/b0393e4a-7e0a-4d50-a870-17d23739eaa8" />
+
+<img width="552" height="704" alt="Scherm­afbeelding 2026-10-14 om 12 44 34" src="https://github.com/user-attachments/assets/aa79f4e5-79da-421d-88f3-8bbee0b53b8c" />
+
+<img width="553" height="585" alt="Scherm­afbeelding 2026-10-14 om 12 44 42" src="https://github.com/user-attachments/assets/3835ed6c-1d3e-4dc1-9ab7-74607bffb298" />
+
+
+<img width="558" height="403" alt="Scherm­afbeelding 2026-10-14 om 12 44 54" src="https://github.com/user-attachments/assets/28e445d4-33f3-4e70-a460-00812fca3f52" />
+
 - Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content?
 
 Ik heb 3 onderwerpen waar ik het over wil doen: Concerten, Fictie en Travel. Ik twijfel of ik ze moet combineren of juist moet focussen op 1? En ik wil het niet te persoonlijk maken? Of juist wel? ben nog een beetje zoekend naar wat ik wil maar het gaat wel een riching op.
@@ -573,7 +618,3 @@ Jiapetal heb ik gekoppeld door transit, GitHub en vsccodium te gebruiken.
 - Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
   Door de code te veranderen in CSS, HTML en evt JS. Hoe het gepubliceert moet worden is mij nog niet gelukt.
   ^dark mode background 2 versies.
-
-<img width="680" height="490" alt="Scherm­afbeelding 2026-10-02 om 10 35 13" src="https://github.com/user-attachments/assets/0a7ff8be-9527-480d-84e6-e1c4555c86d5" />
-<img width="737" height="545" alt="Scherm­afbeelding 2026-10-02 om 10 35 32" src="https://github.com/user-attachments/assets/b76b16a3-e56b-4286-9a63-2c639dfeca9a" />
-<img width="643" height="470" alt="Scherm­afbeelding 2026-10-02 om 10 35 25" src="https://github.com/user-attachments/assets/c1965be1-ee87-4f04-9bdb-fcd033384498" />
