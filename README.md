@@ -6,10 +6,6 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### vrijdag 8 oktober
 
-<img width="782" height="461" alt="Scherm­afbeelding 2026-10-13 om 18 57 25" src="https://github.com/user-attachments/assets/436ce42a-0936-4296-9670-c6a028e6a2dd" />
-<img width="603" height="680" alt="Scherm­afbeelding 2026-10-13 om 18 34 00" src="https://github.com/user-attachments/assets/d85c0426-00d1-4f3a-a3af-7b10ff1c64c7" />
-
-<img width="621" height="650" alt="Scherm­afbeelding 2026-10-13 om 18 34 07" src="https://github.com/user-attachments/assets/ce12c64d-892a-4fc7-a558-d7bb275946d1" />
 
 
 
@@ -36,7 +32,21 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 <img width="733" height="565" alt="Scherm­afbeelding 2026-10-07 om 09 44 29" src="https://github.com/user-attachments/assets/839754a7-6190-4e7e-83d7-5302395b3c39" />
 
+  <img width="782" height="461" alt="Scherm­afbeelding 2026-10-13 om 18 57 25" src="https://github.com/user-attachments/assets/436ce42a-0936-4296-9670-c6a028e6a2dd" />
+
+**SPRINT 3**
+
 ### vrijdag 2 oktober
+
+Feedback: 
+
+Cookie fixen, more en deny. Home menu fixen 
+Lettertypen mono space veranderen. Homepage next, recent tekst fixen kwa design. 
+Hoveren licht roze? Vogels? Sterren toevoegen?
+
+Mobile versie te statisch kan meer speels. 
+
+html check verbeteren.
 
 <img width="496" height="723" alt="Scherm­afbeelding 2026-10-01 om 18 17 18" src="https://github.com/user-attachments/assets/c45e101d-9678-4464-826e-7e832e56baa1" />
 <img width="494" height="730" alt="Scherm­afbeelding 2026-10-01 om 18 16 58" src="https://github.com/user-attachments/assets/4c35e492-7f6c-4540-9aa8-fbf2c19b9a8d" />
@@ -94,8 +104,6 @@ Geen idee hoe dat werkt dus ik wil er nog niet aan beginnen. Misschien weten doc
 
 ### maandag 28 september
 
-- Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
-
 - Wat voor type beperkingen hebben invloed op het gebruiken van websites?
 
 Motorisch, visueel, auditief en cognitief
@@ -122,10 +130,26 @@ Ik heb heel vaak dit scherm geïnspecteerd met m’n grids, want er bleef maar e
 ### vrijdag 25 september
 
 - Wat is HTML validatie, waarom is het belangrijk en hoe heb je dat vandaag uitgevoerd?
-
 - Welke dingen vielen je op?
 
+<img width="603" height="680" alt="Scherm­afbeelding 2026-10-13 om 18 34 00" src="https://github.com/user-attachments/assets/d85c0426-00d1-4f3a-a3af-7b10ff1c64c7" />
+
+<img width="621" height="650" alt="Scherm­afbeelding 2026-10-13 om 18 34 07" src="https://github.com/user-attachments/assets/ce12c64d-892a-4fc7-a558-d7bb275946d1" />
+
+
+
 - Welke feedback heb je ontvangen tijdens het gesprek met je docenten?
+
+  Feedback: Meer beleving in de vormgeving 
+  Mag meerdere css gebruiken. 
+1 algemeen 
+1 normal 
+1 artist 
+
+Menu balkje 
+Of terug op h1 klikken 
+Artiesten vaak geweest groter? 
+Grids voor content 
 
 ### woensdag 23 september
 
@@ -252,7 +276,19 @@ details:open { … }
 details:open summary { … }
 details:open::details-content { … }
 
+**SPRINT 2**
+
 ### vrijdag 18 september
+
+Feedback sprint 1: 
+- read me moet in orde 
+- <br> moet weg mag niet. Margin gebruiken 
+- Hr mag ook niet 
+
+- optie: Gradiënt toevoegen aan de lucht in dark en light? Lucht donker naar licht krijgen. 
+
+- tip: Dark light kan in 1 (light, dark)
+- Html kan beter maar krijg les maandag erover 
 
 <img width="660" height="1434" alt="IMG_4006" src="https://github.com/user-attachments/assets/68f788d2-ba5a-4f7c-8d35-5fa88a7c52e1" />
 <img width="660" height="1434" alt="IMG_4005" src="https://github.com/user-attachments/assets/8bafd702-ee6e-402a-bd3a-8893ec69f9b6" />
