@@ -30,15 +30,18 @@ TBD
 <img width="386" height="559" alt="Scherm­afbeelding 2026-10-07 om 12 22 08" src="https://github.com/user-attachments/assets/58e0b344-223a-4e13-a75f-677373d13b9c" />
 
 - Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
+
 voor ontwerper is het handig om daarmee elementen te verplaatsen. 
 voor de bezoeker is het overzichtelijker en geeft de pagina meer structuur. 
   
 - Noem drie manieren om chaos in je ontwerp te voorkomen.
+
 Genoeg witruimte gebruiken.
 geen vloekende kleuren gebruiken.
 een grid gebruiken voor verplaatsen van elementen.  
 
 - Hoeveel gekkigheid moet er in je werk zitten?
+
 Genoeg tot dat het overzichtelijke weg is. Maar ik denk dat je best ver kunt gaan met de gekkigheid. 
 
 ### maandag 5 oktober
