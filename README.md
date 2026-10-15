@@ -6,6 +6,9 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### vrijdag 8 oktober
 
+<img width="738" height="541" alt="Scherm­afbeelding 2026-10-15 om 19 03 27" src="https://github.com/user-attachments/assets/d6b85590-e843-4cf9-8849-d2fea14fd777" />
+
+
 - Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
 
 Ik gebruik de grootte, breedte en het gewicht van de letters om te laten zien hoe bepaalde woorden worden uitgesproken in het nummer. Daarnaast gebruik ik hoofdletters en tekstrotatie om de sfeer en de manier waarop de tekst gezongen wordt terug te laten komen.
