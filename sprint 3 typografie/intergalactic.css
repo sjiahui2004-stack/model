@@ -7,24 +7,27 @@
 body {
   font-family: "Seraphs";
   margin: 3em;
+  background-color: rgb(253, 108, 41);
+  color: rgb(19, 40, 79);
 }
 
+/* bron: https://www.w3schools.com/css/css_grid.asp */
 main {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(2, 33em);
   gap: 1em;
-  width: 100%;
+  justify-content: center;
 }
 
 /* MARK: Titel */
 h1 {
   font-size: 7em;
-  font-weight: 500;
   transition: 2s;
+  text-transform: uppercase;
 
   &:hover {
     font-weight: 700;
-    letter-spacing: -0.1em;
+    letter-spacing: 0.3em;
     /* writing-mode: sideways-rl; */
   }
 }
@@ -59,18 +62,23 @@ section:nth-of-type(2) {
   grid-row: 2;
   span {
     font-size: 2.5rem;
-    font-weight: 400;
+    font-weight: 700;
     line-height: 0.5;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.4em;
     word-spacing: 0.2em;
     text-transform: uppercase;
+    display: inline-block;
+    transform: skew(30deg);
   }
 
   p {
     font-size: 2em;
-    font-weight: 400;
+    font-weight: 200;
     line-height: 1em;
     letter-spacing: -0.1em;
+    word-spacing: 0.2em;
+    display: inline-block;
+    transform: skew(-30deg);
   }
 }
 

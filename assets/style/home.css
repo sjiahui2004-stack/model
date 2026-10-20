@@ -5,7 +5,7 @@
 /* bron background repeat: https://developer.m
 ozilla.org/en-US/docs/Web/CSS/Guides/Backgrounds_and_borders */
 body {
-  font-family: monospace, tahoma, sans-serif;
+  font-family: "fraunces", tahoma, sans-serif;
   background-color: var(--background-color);
   color: var(--text-color);
   margin: var(--whitespace-l);
@@ -16,10 +16,10 @@ body {
 }
 
 h1 {
-  font-family: "impacted", tahoma, sans-serif;
+  font-family: "fraunces", tahoma, sans-serif;
   font-size: 5.5em;
   color: var(--text-color);
-  text-shadow: 0.04em 0.04em var(--text-shadow);
+  text-shadow: 0.02em 0.02em var(--text-shadow);
   margin: var(--whitespace-s);
   margin-bottom: 1em;
 }
@@ -27,8 +27,9 @@ h1 {
 /* bron font:  https://www.dafont.com/impacted-hr.font?back=theme  */
 
 h2 {
-  font-family: monospace;
+  font-family: "fraunces";
   font-size: 1.5em;
+  font-weight: 900;
   color: var(--text-color);
   text-shadow: 0.03em 0.04em var(--text-shadow);
   margin: var(--whitespace-s);
@@ -232,13 +233,13 @@ body:has(dialog[open])::before {
 }
 
 button {
+  font-family: "fraunces", tahoma, sans-serif;
   background-color: var(--button-background);
   color: var(--button-text);
   border: 0.3em solid var(--dialog-border);
   border-radius: 1em;
   padding: 0.5em 1em;
   cursor: pointer;
-  font-weight: bold;
   margin: var(--whitespace-xs);
 }
 
@@ -327,18 +328,27 @@ dialog a:focus {
   color: rgb(255, 242, 0);
 }
 
+main {
+  a {
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-family: "fraunces", tahoma, sans-serif;
+    transition: 2s;
+
+    &:hover {
+      font-weight: 700;
+      letter-spacing: 0.3em;
+    }
+  }
+}
+
 /**********
 •⁠  ⁠MARK: UL >60em
 **********/
 
 @media (width > 60rem) {
   h1 {
-    font-family: "impacted", tahoma, sans-serif;
     font-size: 8em;
-    color: var(--text-color);
-    text-shadow: 0.04em 0.04em var(--text-shadow);
-    margin: var(--whitespace-m);
-    margin-bottom: 1em;
   }
   ul {
     margin-bottom: 17em;
@@ -507,6 +517,12 @@ Google gemini^ */
     width: 20em;
     height: 20em;
     padding: 4em;
+  }
+}
+
+main {
+  a {
+    font-size: 2em;
   }
 }
 

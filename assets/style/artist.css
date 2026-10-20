@@ -5,7 +5,7 @@
 /* bron background repeat: https://developer.m
 ozilla.org/en-US/docs/Web/CSS/Guides/Backgrounds_and_borders */
 body {
-  font-family: monospace, tahoma, sans-serif;
+  font-family: "fraunces", tahoma, sans-serif;
   background-color: var(--background-color);
   color: var(--text-color);
   margin: var(--whitespace-l);
@@ -16,10 +16,10 @@ body {
 }
 
 h1 {
-  font-family: "impacted", tahoma, sans-serif;
+  font-family: "fraunces", tahoma, sans-serif;
   font-size: 4em;
   color: var(--text-color);
-  text-shadow: 0.04em 0.04em var(--text-shadow);
+  text-shadow: 0.02em 0.02em var(--text-shadow);
   margin: var(--whitespace-s);
   margin-bottom: 1em;
 }
@@ -27,11 +27,16 @@ h1 {
 /* bron font:  https://www.dafont.com/impacted-hr.font?back=theme  */
 
 h2 {
-  font-family: monospace;
+  font-family: "fraunces";
   font-size: 1.5em;
   color: var(--text-color);
   text-shadow: 0.03em 0.04em var(--text-shadow);
   margin: var(--whitespace-s);
+}
+
+h3 {
+  font-size: 3em;
+  text-shadow: 0.03em 0.04em var(--text-shadow);
 }
 
 /* voor content op artiesten pagina^ */
@@ -59,10 +64,11 @@ article {
   padding: 0;
   list-style-type: "";
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-row: 1fr 1fr 1fr 1fr;
-  gap: 1em;
-  margin: auto;
+  grid-template-columns: repeat(2, 10em);
+  grid-template-rows: repeat(3, 10em);
+  gap: 2em;
+  justify-content: center;
+  margin: 0 auto 3em;
 }
 
 video:nth-of-type(1) {
@@ -193,34 +199,25 @@ a:focus {
 }
 
 /**********
-•⁠  ⁠MARK: Body >70em
+•⁠  ⁠MARK: Body >60em
 **********/
 
-@media (width > 70rem) {
-  body {
-    font-family: monospace, tahoma, sans-serif;
-    background-color: var(--background-color);
-    color: var(--text-color);
-    margin: var(--whitespace-l);
-  }
-
+@media (width > 60rem) {
   h1 {
-    font-family: "impacted", tahoma, sans-serif;
     font-size: 8em;
-    color: var(--text-color);
-    text-shadow: 0.04em 0.04em var(--text-shadow);
-    margin: var(--whitespace-m);
-    margin-bottom: 1em;
   }
 
   /* bron font:  https://www.dafont.com/impacted-hr.font?back=theme  */
 
   h2 {
-    font-family: monospace;
     font-size: 2em;
     color: var(--text-color);
     text-shadow: 0.03em 0.04em var(--text-shadow);
     margin: var(--whitespace-m);
+  }
+
+  h3 {
+    font-size: 6em;
   }
 
   /* voor content op artiesten pagina^ */
@@ -242,11 +239,13 @@ a:focus {
     padding: 0;
     list-style-type: "";
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
+    grid-template-columns: repeat(5, 8em);
+    grid-template-rows: repeat(2, 8em);
     gap: 1em;
-    margin: auto;
+    justify-content: center;
+    margin: 0 auto 5em;
   }
+
   video:nth-of-type(1) {
     grid-column-start: 1;
     grid-column-end: 2;
