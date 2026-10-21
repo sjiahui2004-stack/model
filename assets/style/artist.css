@@ -15,6 +15,50 @@ body {
   background-size: 100% auto;
 }
 
+button:nth-of-type(1) {
+  padding: 0.5em 1em;
+  border-radius: 1em;
+  cursor: pointer;
+  position: fixed;
+  left: 6em;
+  bottom: var(--whitespace-l);
+  z-index: 10;
+
+  background-color: var(--background-button);
+  border-color: var(--li-border-color);
+  color: var(--button-text);
+
+  &:hover {
+    background-color: var(--a-extra-color);
+  }
+
+  &:focus {
+    outline: 0.2em solid var(--a-extra-color);
+  }
+}
+
+button:nth-of-type(2) {
+  padding: 0.5em 1em;
+  border-radius: 1em;
+  cursor: pointer;
+  position: fixed;
+  left: 12em;
+  bottom: var(--whitespace-l);
+  z-index: 10;
+
+  background-color: var(--background-button);
+  border-color: var(--li-border-color);
+  color: var(--button-text);
+
+  &:hover {
+    background-color: var(--a-extra-color);
+  }
+
+  &:focus {
+    outline: 0.2em solid var(--a-extra-color);
+  }
+}
+
 h1 {
   font-family: "impacted", tahoma, sans-serif;
   font-size: 5.5em;
@@ -122,7 +166,7 @@ summary {
 }
 
 summary:hover {
-  color: rgb(255, 242, 0);
+  color: var(--a-extra-color);
 }
 
 summary:focus {
