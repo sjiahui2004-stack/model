@@ -4,6 +4,10 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### woensdag 21 oktober
+
+### maandag 19 oktober
+
 ### vrijdag 8 oktober
 
 <img width="738" height="541" alt="Scherm­afbeelding 2026-10-15 om 19 03 27" src="https://github.com/user-attachments/assets/d6b85590-e843-4cf9-8849-d2fea14fd777" />
