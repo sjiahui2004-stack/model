@@ -14,6 +14,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 Ik heb als h1 de lettertype impacted behouden maar voor de rest van mn site Fraunces ipv monospace. Vind het nu beter passen ook met de stijl van mijn achtergrond en bollen. 
 
+En de layout van de bollen is ook beter geworden en nu niet meer statisch. 
 
 ### maandag 19 oktober
 <img width="1016" height="712" alt="Scherm­afbeelding 2026-10-21 om 17 53 33" src="https://github.com/user-attachments/assets/f087519d-2b5b-45c5-aaba-8fd2535359a1" />
