@@ -49,6 +49,8 @@ De grote bollen heb ik ook daarop aangepast. Al die tijd had ik nog niet het gev
 <img width="483" height="708" alt="Scherm­afbeelding 2026-10-20 om 16 45 08" src="https://github.com/user-attachments/assets/af83fdb2-3105-4002-a42a-7e71b5d858cc" />
 
 
+Ik heb het lettertype momospace vervangen met fraunces. Het oogt meer dromerig maar ik denk dat ik H1 als lettertype impacted ga behouden omdat dat bolder en duidelijker is. 
+
 <img width="1512" height="761" alt="Scherm­afbeelding 2026-10-20 om 15 51 07" src="https://github.com/user-attachments/assets/31cf7724-ad27-4b42-a929-86356ecaa7d2" />
 
 
@@ -62,6 +64,7 @@ De grote bollen heb ik ook daarop aangepast. Al die tijd had ik nog niet het gev
 
 <img width="1497" height="380" alt="Scherm­afbeelding 2026-10-20 om 15 51 40" src="https://github.com/user-attachments/assets/f95a59d0-b96b-487b-bf3d-90867018a1eb" />
 
+Mijn aangepaste versie met de feedback die ik had gekregen. Ik denk dat dit mn final versie wordt. Alleen nog kleur toevoegen. Ik heb de verse ook meer gestijld met de chorus zodat ze beter bij elkaar passen. 
 
 
 ### vrijdag 8 oktober
