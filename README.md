@@ -7,6 +7,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ### woensdag 21 oktober
 
 <img width="966" height="271" alt="Scherm­afbeelding 2026-10-22 om 16 09 26" src="https://github.com/user-attachments/assets/492768cd-45c8-4181-b574-4296f5cf9ff4" />
+
 <img width="866" height="223" alt="Scherm­afbeelding 2026-10-22 om 16 09 08" src="https://github.com/user-attachments/assets/fab3615d-f935-40fb-94dd-5cb9176ad306" />
 
 Ik moet animaties laten zien. Ik wil dat mijn bewegende content centraal blijft staan en niet te veel beweging ernaast toevoegen, zodat het niet too much wordt. Daarom ga ik de h2-koppen op mijn homepage, zoals "Recently" en "Next up", animeren. Ook wil ik op sommige artiestenpagina's het woord "Soon" laten animeren, zodat deze woorden er wat meer uitspringen en beter bij de stijl van mijn website passen.
