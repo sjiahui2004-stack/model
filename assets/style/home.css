@@ -266,6 +266,7 @@ button {
   padding: 0.5em 1em;
   cursor: pointer;
   margin: var(--whitespace-xs);
+  font-size: 0.85em;
 }
 
 button:hover {
