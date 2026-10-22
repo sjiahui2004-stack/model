@@ -7,6 +7,42 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ### woensdag 21 oktober
 
 ### maandag 19 oktober
+<img width="1016" height="712" alt="Scherm­afbeelding 2026-10-21 om 17 53 33" src="https://github.com/user-attachments/assets/f087519d-2b5b-45c5-aaba-8fd2535359a1" />
+
+
+
+<img width="496" height="703" alt="Scherm­afbeelding 2026-10-21 om 15 39 12" src="https://github.com/user-attachments/assets/3455eb60-8636-461b-8633-126f49e12c09" />
+
+<img width="492" height="709" alt="Scherm­afbeelding 2026-10-21 om 15 34 08" src="https://github.com/user-attachments/assets/649c0e0e-dd1f-4fb4-8f25-d95225f44a30" />
+
+
+
+
+<img width="1503" height="763" alt="Scherm­afbeelding 2026-10-20 om 17 11 03" src="https://github.com/user-attachments/assets/37c75362-c67a-46c6-b135-84438e6c3455" />
+
+<img width="1492" height="757" alt="Scherm­afbeelding 2026-10-20 om 17 10 54" src="https://github.com/user-attachments/assets/e4777f34-bac8-45ba-8876-fe98c497fcd0" />
+
+
+
+<img width="494" height="761" alt="Scherm­afbeelding 2026-10-20 om 16 45 20" src="https://github.com/user-attachments/assets/8b5d3aea-b77a-4553-8950-aaf0a70f83e1" />
+
+<img width="483" height="708" alt="Scherm­afbeelding 2026-10-20 om 16 45 08" src="https://github.com/user-attachments/assets/af83fdb2-3105-4002-a42a-7e71b5d858cc" />
+
+
+<img width="1512" height="761" alt="Scherm­afbeelding 2026-10-20 om 15 51 07" src="https://github.com/user-attachments/assets/31cf7724-ad27-4b42-a929-86356ecaa7d2" />
+
+
+<img width="1496" height="775" alt="Scherm­afbeelding 2026-10-20 om 15 51 17" src="https://github.com/user-attachments/assets/f758b641-57ba-450c-85f7-6b83f512ed1a" />
+
+
+<img width="1512" height="405" alt="Scherm­afbeelding 2026-10-20 om 15 51 26" src="https://github.com/user-attachments/assets/c9f584ae-211a-4dab-b659-d1f233d1717b" />
+
+<img width="1512" height="690" alt="Scherm­afbeelding 2026-10-20 om 15 51 35" src="https://github.com/user-attachments/assets/6d45d6c0-6da7-4892-b444-a3ce19d653a3" />
+
+
+<img width="1497" height="380" alt="Scherm­afbeelding 2026-10-20 om 15 51 40" src="https://github.com/user-attachments/assets/f95a59d0-b96b-487b-bf3d-90867018a1eb" />
+
+
 
 ### vrijdag 8 oktober
 
@@ -25,7 +61,9 @@ Door de lettergrootte aan te passen kan ik belangrijke woorden meer laten opvall
 bij verse 1 en de stukken waar ze continu dezelfde lyrics achter elkaar zingen om en om kunnen laten animeren. Is denk leuker dan 10 keer hetzelfde ontwerp onder elkaar te hebben. 
 
 Feedback songtekst: 
-TBD
+Feedback lyrics Diederik: 
+Iets meer flow en samenhang (titel en verse 1). Alles hoort bij elkaar en nu lijkt het bij een stuk apart.
+Kleur en afbeeldingen mag (optioneel) toegevoegd worden. 
 
 ### woensdag 7 oktober
 
