@@ -29,14 +29,18 @@ https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Wh
 
 <img width="496" height="703" alt="Scherm­afbeelding 2026-10-21 om 15 39 12" src="https://github.com/user-attachments/assets/3455eb60-8636-461b-8633-126f49e12c09" />
 
-<img width="492" height="709" alt="Scherm­afbeelding 2026-10-21 om 15 34 08" src="https://github.com/user-attachments/assets/649c0e0e-dd1f-4fb4-8f25-d95225f44a30" />
+<img width="492" height="709" alt="Scherm­afbeelding 2026-10-21 om 15 34 08" src="https://github.com/user-attachments/assets/649c0e0e-dd1f-4fb4-8f25-d95225f44a30" /> 
 
-
+Een paar weken geleden kreeg ik als feedback dat de bollen op het kleine scherm nog te statisch eruit zien. Dat heb ik nu aangepast en vind dit wel een stuk beter ogen. Past goed bij de sfeer die ik wil hebben (zwevende content).
 
 
 <img width="1503" height="763" alt="Scherm­afbeelding 2026-10-20 om 17 11 03" src="https://github.com/user-attachments/assets/37c75362-c67a-46c6-b135-84438e6c3455" />
 
-<img width="1492" height="757" alt="Scherm­afbeelding 2026-10-20 om 17 10 54" src="https://github.com/user-attachments/assets/e4777f34-bac8-45ba-8876-fe98c497fcd0" />
+<img width="1492" height="757" alt="Scherm­afbeelding 2026-10-20 om 17 10 54" src="https://github.com/user-attachments/assets/e4777f34-bac8-45ba-8876-fe98c497fcd0" /> 
+
+
+
+De grote bollen heb ik ook daarop aangepast. Al die tijd had ik nog niet het gevoel van "ja dit is goed" nu kan ik wel zeggen dat ik dit goed vind. 
 
 
 
