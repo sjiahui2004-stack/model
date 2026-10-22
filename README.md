@@ -9,6 +9,22 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ### maandag 19 oktober
 <img width="1016" height="712" alt="Scherm­afbeelding 2026-10-21 om 17 53 33" src="https://github.com/user-attachments/assets/f087519d-2b5b-45c5-aaba-8fd2535359a1" />
 
+Ik was op zoek naar artikelen die me konden helpen met het maken van een pause- en playknop, zodat ik aan alle toegankelijkheidseisen zou voldoen. Ik kwam dit^^bovenstaande afbeelding^^^ knopje tegen en heb naar de code gekeken. Maar ik begreep niet goed wat alles betekende en wat de code precies deed. Daarom ben ik andere artikelen gaan bekijken die deze codes uitleggen. Uiteindelijk heb ik in die andere artikelen eenvoudigere code gevonden, waardoor ik nu beter begrijp wat het stukje JavaScript doet.
+
+Deze bronnen heb ik bekeken en gebruikt: 
+
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Client-side_APIs/Video_and_audio_APIs
+
+https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll
+
+https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener 
+
+https://developer.mozilla.org/en-US/docs/Web/API/NodeList/forEach 
+
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/play 
+
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/What_is_JavaScript 
+
 
 
 <img width="496" height="703" alt="Scherm­afbeelding 2026-10-21 om 15 39 12" src="https://github.com/user-attachments/assets/3455eb60-8636-461b-8633-126f49e12c09" />
