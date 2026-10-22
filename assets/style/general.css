@@ -50,6 +50,6 @@ html {
 @font-face {
   font-family: "fraunces";
   src: url(../type/Fraunces/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf);
-  font-weight: 400;
+  font-weight: 100 900;
   font-style: normal;
 }

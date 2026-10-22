@@ -2,6 +2,7 @@
 @font-face {
   font-family: "Seraphs";
   src: url("font/SeraphsVF.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: 100 900;
 }
 
 body {
@@ -33,6 +34,15 @@ h1 {
 }
 /* MARK: Chorus */
 
+@keyframes --the-animation {
+  0% {
+    font-weight: 400;
+  }
+
+  100% {
+    font-weight: 700;
+  }
+}
 section:nth-of-type(1) {
   grid-column: 2;
   grid-row: 1;
@@ -45,6 +55,7 @@ section:nth-of-type(1) {
     text-transform: uppercase;
     transform: skew(30deg);
   }
+
   span {
     font-size: 3rem;
     font-weight: 400;
@@ -52,6 +63,12 @@ section:nth-of-type(1) {
     text-transform: uppercase;
     display: inline-block;
     transform: skew(-60deg);
+
+    animation-name: --the-animation;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
   }
 }
 
@@ -103,5 +120,11 @@ section:nth-of-type(3) {
     text-transform: uppercase;
     display: inline-block;
     transform: skew(-57deg);
+
+    animation-name: --the-animation;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
   }
 }

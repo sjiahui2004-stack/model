@@ -26,13 +26,37 @@ h1 {
 
 /* bron font:  https://www.dafont.com/impacted-hr.font?back=theme  */
 
+@keyframes --the-animation {
+  0% {
+    translate: 0 0;
+    font-weight: 400;
+  }
+
+  100% {
+    translate: 1em 0;
+    font-weight: 700;
+  }
+}
+
 h2 {
   font-family: "fraunces";
-  font-size: 1.5em;
-  font-weight: 900;
+  font-size: 2.05em;
+  font-weight: 400;
   color: var(--text-color);
   text-shadow: 0.03em 0.04em var(--text-shadow);
   margin: var(--whitespace-s);
+
+  @media (prefers-reduced-motion: no-preference) {
+    animation-name: --the-animation;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
+  }
+}
+
+p {
+  font-size: 1.05em;
 }
 
 /**********
@@ -203,7 +227,7 @@ dialog {
   padding: 3em;
   margin: auto;
   text-align: center;
-  font-weight: bolder;
+  font-weight: 500;
   top: 0;
   right: 0;
   bottom: 0;
@@ -234,6 +258,7 @@ body:has(dialog[open])::before {
 
 button {
   font-family: "fraunces", tahoma, sans-serif;
+  font-weight: 500;
   background-color: var(--button-background);
   color: var(--buttonmenu-text);
   border: 0.3em solid var(--dialog-border);
@@ -260,7 +285,7 @@ summary {
   border-radius: 1em;
   padding: 0.5em 1em;
   cursor: pointer;
-  font-weight: bold;
+  font-weight: 500;
   display: inline-block;
   list-style: none;
   font-size: 0.85em;
@@ -298,6 +323,7 @@ form:has(details[open]) .cookie-text {
 
 a {
   color: var(--a-text-color);
+  font-weight: 500;
 }
 
 a:visited {
@@ -331,12 +357,15 @@ dialog a:focus {
 main {
   a {
     font-size: 1.5em;
+    font-weight: 400;
     text-transform: uppercase;
     font-family: "fraunces", tahoma, sans-serif;
     transition: 2s;
+    display: inline-block;
+    margin-bottom: 4em;
 
     &:hover {
-      font-weight: 700;
+      font-weight: 500;
       letter-spacing: 0.3em;
     }
   }
@@ -349,6 +378,14 @@ main {
 @media (width > 60rem) {
   h1 {
     font-size: 8em;
+  }
+
+  h2 {
+    font-size: 2.5em;
+  }
+
+  p {
+    font-size: 1.2em;
   }
   ul {
     margin-bottom: 17em;
