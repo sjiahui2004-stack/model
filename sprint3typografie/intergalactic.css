@@ -1,8 +1,7 @@
 /* MARK: Fonts */
 @font-face {
   font-family: "Seraphs";
-  src: url("font/SeraphsVF.woff2") format("woff2"); /* Modern Browsers */
-  font-weight: 100 900;
+  src: url("SeraphsVF.woff2") format("woff2"); /* Modern Browsers */
 }
 
 body {
@@ -23,11 +22,12 @@ main {
 /* MARK: Titel */
 h1 {
   font-size: 7em;
+  font-weight: 400;
   transition: 2s;
   text-transform: uppercase;
 
   &:hover {
-    font-weight: 700;
+    font-weight: 400;
     letter-spacing: 0.3em;
     /* writing-mode: sideways-rl; */
   }
@@ -48,7 +48,7 @@ section:nth-of-type(1) {
   grid-row: 1;
   p {
     font-size: 3em;
-    font-weight: 400;
+    font-weight: 100;
     line-height: 1em;
     letter-spacing: -0.1em;
     word-spacing: 0.2em;
@@ -58,7 +58,7 @@ section:nth-of-type(1) {
 
   span {
     font-size: 3rem;
-    font-weight: 400;
+    font-weight: 200;
     letter-spacing: -0.1em;
     text-transform: uppercase;
     display: inline-block;
@@ -90,7 +90,7 @@ section:nth-of-type(2) {
 
   p {
     font-size: 2em;
-    font-weight: 200;
+    font-weight: 100;
     line-height: 1em;
     letter-spacing: -0.1em;
     word-spacing: 0.2em;
@@ -106,7 +106,7 @@ section:nth-of-type(3) {
 
   p {
     font-size: 3em;
-    font-weight: 400;
+    font-weight: 100;
     line-height: 1em;
     letter-spacing: -0.1em;
     word-spacing: 1em;
@@ -115,7 +115,7 @@ section:nth-of-type(3) {
   }
   span {
     font-size: 3rem;
-    font-weight: 400;
+    font-weight: 200;
     letter-spacing: -0.1em;
     text-transform: uppercase;
     display: inline-block;

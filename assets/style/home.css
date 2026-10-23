@@ -19,7 +19,7 @@ h1 {
   font-family: "impacted", tahoma, sans-serif;
   font-size: 5.5em;
   color: var(--text-color);
-  text-shadow: 0.02em 0.02em var(--text-shadow);
+  text-shadow: 0.02em 0.02em var(--text-shadow-h-home);
   margin: var(--whitespace-s);
   margin-bottom: 1em;
 }
@@ -38,12 +38,14 @@ h1 {
   }
 }
 
+/* bronfont frances: https://fonts.google.com/specimen/Fraunces?preview.script=Latn  */
+
 h2 {
   font-family: "fraunces";
   font-size: 2.05em;
   font-weight: 400;
   color: var(--text-color);
-  text-shadow: 0.03em 0.04em var(--text-shadow);
+  text-shadow: 0.03em 0.04em var(--text-shadow-h-home);
   margin: var(--whitespace-s);
 
   @media (prefers-reduced-motion: no-preference) {
@@ -204,17 +206,6 @@ li:nth-of-type(8) img {
 •⁠  ⁠MARK: Cookies
 **********/
 
-html {
-  color-scheme: light dark;
-
-  --dialog-backgroundcolor: light-dark(rgb(11, 3, 49), rgb(145, 200, 255));
-  --dialog-border: light-dark(rgb(182, 209, 234), rgb(255, 255, 255));
-  --dialog-text: light-dark(rgb(145, 200, 255), rgb(11, 3, 49));
-
-  --button-background: light-dark(rgb(145, 200, 255), rgb(11, 3, 49));
-  --buttonmenu-text: light-dark(rgb(11, 3, 49), rgb(145, 200, 255));
-}
-
 dialog {
   background-color: var(--dialog-backgroundcolor);
   color: var(--dialog-text);
@@ -235,8 +226,8 @@ dialog {
 }
 
 dialog:focus {
-  color: rgb(255, 242, 0);
-  outline: 0.2em dashed rgb(255, 242, 0);
+  color: var(--a-extra-color);
+  outline: 0.2em dashed var(--a-extra-color);
 }
 
 dialog::backdrop {
@@ -267,16 +258,17 @@ button {
   cursor: pointer;
   margin: var(--whitespace-xs);
   font-size: 0.85em;
-}
 
-button:hover {
-  background-color: var(--dialog-backgroundcolor);
-  color: rgb(255, 242, 0);
-}
+  &:hover {
+    background-color: var(--dialog-backgroundcolor);
+    color: var(--a-extra-color);
+    transition: 1s;
+  }
 
-button:focus {
-  color: rgb(255, 242, 0);
-  outline: 0.2em dashed rgb(255, 242, 0);
+  &:focus {
+    color: var(--a-extra-color);
+    outline: 0.2em dashed var(--a-extra-color);
+  }
 }
 
 summary {
@@ -290,20 +282,21 @@ summary {
   display: inline-block;
   list-style: none;
   font-size: 0.85em;
-}
 
-summary:hover {
-  background-color: var(--dialog-backgroundcolor);
-  color: rgb(255, 242, 0);
-}
+  &:hover {
+    background-color: var(--dialog-backgroundcolor);
+    color: var(--a-extra-color);
+    transition: 1s;
+  }
 
-summary:focus {
-  color: rgb(255, 242, 0);
-  outline: 0.2em dashed rgb(255, 242, 0);
-}
+  &:focus {
+    color: var(--a-extra-color);
+    outline: 0.2em dashed var(--a-extra-color);
+  }
 
-summary span:last-child {
-  display: none;
+  & span:last-child {
+    display: none;
+  }
 }
 
 details {
@@ -325,34 +318,37 @@ form:has(details[open]) .cookie-text {
 a {
   color: var(--a-text-color);
   font-weight: 500;
-}
 
-a:visited {
-  color: var(--a-text-color);
-}
+  &:visited {
+    color: var(--a-text-color);
+  }
 
-a:hover {
-  color: var(--a-extra-color);
-}
+  &:hover {
+    color: var(--a-extra-color);
+    transition: 1s;
+  }
 
-a:focus {
-  color: var(--a-extra-color);
-  outline: 0.2em dashed var(--a-extra-color);
+  &:focus {
+    color: var(--a-extra-color);
+    outline: 0.2em dashed var(--a-extra-color);
+  }
 }
 
 dialog a {
   color: var(--button-background);
-}
 
-dialog a:visited {
-  color: var(--button-background);
-}
+  &:visited {
+    color: var(--button-background);
+  }
 
-dialog a:hover {
-  color: rgb(255, 242, 0);
-}
-dialog a:focus {
-  color: rgb(255, 242, 0);
+  &:hover {
+    color: var(--a-extra-color);
+    transition: 1s;
+  }
+
+  &:focus {
+    color: var(--a-extra-color);
+  }
 }
 
 main {
@@ -539,17 +535,6 @@ Google gemini^ */
   /**********
 •⁠  ⁠MARK: Cookies >60em
 **********/
-
-  html {
-    color-scheme: light dark;
-
-    --dialog-backgroundcolor: light-dark(rgb(11, 3, 49), rgb(145, 200, 255));
-    --dialog-border: light-dark(rgb(182, 209, 234), rgb(255, 255, 255));
-    --dialog-text: light-dark(rgb(145, 200, 255), rgb(11, 3, 49));
-
-    --button-background: light-dark(rgb(145, 200, 255), rgb(11, 3, 49));
-    --button-text: light-dark(rgb(11, 3, 49), rgb(145, 200, 255));
-  }
 
   dialog {
     width: 20em;
