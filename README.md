@@ -6,7 +6,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### vrijdag 23 oktober 
 
-
+retrospect 
 
 ### woensdag 21 oktober
 
