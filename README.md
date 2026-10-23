@@ -8,6 +8,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 retrospect 
 
+
 ### woensdag 21 oktober
 
 <img width="966" height="271" alt="Scherm­afbeelding 2026-10-22 om 16 09 26" src="https://github.com/user-attachments/assets/492768cd-45c8-4181-b574-4296f5cf9ff4" />
