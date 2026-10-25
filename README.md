@@ -8,6 +8,8 @@ Ik heb een nieuwe versie gemaakt van het menu en alle knoppen dezelfde layout ge
 
 Ook heb ik de tekstshadow er mee gematched zodat de pagina samen een geheel is. 
 
+Nu ik mijn h2 in mijn article heb gezet en de tekst 'on bedoeld' ook zoals de grid gecentreerd was. Vind ik het eigenlijk wel beter bij elkaar passen. Nu staat content en h2 centraal, en hebben de de knoppen een eigen plekje. 
+
 <img width="1487" height="638" alt="Scherm­afbeelding 2026-10-23 om 22 15 00" src="https://github.com/user-attachments/assets/7e0bc49f-b760-450e-a21f-747610479a72" />
 <img width="1461" height="602" alt="Scherm­afbeelding 2026-10-23 om 22 16 11" src="https://github.com/user-attachments/assets/7a958b3c-9ff9-4d62-857c-2c234ab2b86b" />
 
