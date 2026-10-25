@@ -4,9 +4,47 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+Ik heb een nieuwe versie gemaakt van het menu en alle knoppen dezelfde layout gegeven. Het past nu beter bij elkaar. 
+
+Ook heb ik de tekstshadow er mee gematched zodat de pagina samen een geheel is. 
+
+<img width="1487" height="638" alt="Scherm­afbeelding 2026-10-23 om 22 15 00" src="https://github.com/user-attachments/assets/7e0bc49f-b760-450e-a21f-747610479a72" />
+<img width="1461" height="602" alt="Scherm­afbeelding 2026-10-23 om 22 16 11" src="https://github.com/user-attachments/assets/7a958b3c-9ff9-4d62-857c-2c234ab2b86b" />
+
+
 ### vrijdag 23 oktober 
 
-retrospect 
+Feedback:
+
+Code feedback: In html staan de h2 buiten de article. Article moet een head hebben. 
+
+<img width="904" height="687" alt="Scherm­afbeelding 2026-10-23 om 20 25 33" src="https://github.com/user-attachments/assets/7ee0249c-ebea-4bc1-aed6-47286a81e2bf" />
+
+
+
+Css nesten 
+
+Op alle hovers een transition zetten, dan oogt het fijner.
+
+
+
+<img width="284" height="554" alt="Scherm­afbeelding 2026-10-23 om 12 50 45" src="https://github.com/user-attachments/assets/5811adbb-86c0-48da-be3c-7a4dc6895928" />
+
+Menu kan beter gematched worden met de rest van de pagina. Zodat meer samenhang. 
+
+
+<img width="1369" height="579" alt="Scherm­afbeelding 2026-10-23 om 12 50 59" src="https://github.com/user-attachments/assets/e65df455-c6ca-4667-bda4-f0ba194b3d80" />
+
+Zelfde hover kleuren gebruiken.
+
+ <img width="744" height="529" alt="Scherm­afbeelding 2026-10-25 om 18 47 51" src="https://github.com/user-attachments/assets/47d902c3-94b2-46d4-b8d5-ef3e6952c26a" />
+
+
+
+<img width="712" height="526" alt="Scherm­afbeelding 2026-10-25 om 18 48 00" src="https://github.com/user-attachments/assets/c6b97e8c-6be4-4311-8709-1b67f035c444" />
+
+
+<img width="740" height="530" alt="Scherm­afbeelding 2026-10-25 om 18 48 09" src="https://github.com/user-attachments/assets/6212ea77-1473-48c4-9112-8e72a27d5301" />
 
 
 ### woensdag 21 oktober
